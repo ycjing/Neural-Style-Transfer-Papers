@@ -12,7 +12,6 @@ If you find this repository useful for your research, please cite
   year = {XXX}
 }
 ```
-## The First Neural Style Transfer Paper
 
 
 ## A Taxonomy of Current Methods:
