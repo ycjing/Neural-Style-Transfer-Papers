@@ -19,13 +19,13 @@ If you find this repository useful for your research, please cite
 
 ####  1.1. MMD-based Descriptive Neural Methods
 
-:white_check_mark: [A Neural Algorithm of Artistic Style] [[Paper]](https://arxiv.org/abs/1406.2661)
+:white_check_mark: [A Neural Algorithm of Artistic Style] [[Paper]](https://arxiv.org/abs/1406.2661) (*First Neural Style Transfer Paper*)
 
-:white_check_mark: [Image Style Transfer Using Convolutional Neural Networks]
+:white_check_mark: [Image Style Transfer Using Convolutional Neural Networks] (*CVPR 2016*)
 
-:white_check_mark: [Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses]
+:white_check_mark: [Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses] (*CVPR 2017*)
 
-:white_check_mark: [Demystifying Neural Style Transfer]
+:white_check_mark: [Demystifying Neural Style Transfer] (*Theoretical Explanation*)
 
 :white_check_mark: [Content-Aware Neural Style Transfer]
 
