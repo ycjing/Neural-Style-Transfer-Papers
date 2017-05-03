@@ -1,4 +1,4 @@
-# Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="40" width="40" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
+# Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="30" width="30" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
 Mentioned papers and corresponding codes in our paper "Neural Style Transfer: A Review"
 
 ## Citation (to be updated)
@@ -24,7 +24,9 @@ If you find this repository useful for your research, please cite
 :sparkle: **Code:**
 
 *   Torch-based: [1]
-*   Torch-based: 
+*   TensorFlow-based: 
+*   Keras-based: 
+*   MatConvNet-based: 
 
 :white_check_mark: [Image Style Transfer Using Convolutional Neural Networks] *(CVPR 2016)*
 
@@ -40,21 +42,52 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis] *(CVPR 2016)*
 
+:sparkle: **Code:**
+
+*   Torch-based: [1]
+
 :white_check_mark: [Neural Doodle_Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork]
 
 ###  2. Generative Neural Methods Based On Model Iteration
 
 :white_check_mark: [Perceptual Losses for Real-Time Style Transfer and Super-Resolution] *(ECCV 2016)*
 
+:sparkle: **Code:**
+
+*   Torch-based: [1]
+*   TensorFlow-based: 
+*   Chainer-based: 
+
 :white_check_mark: [Texture Networks: Feed-forward Synthesis of Textures and Stylized Images] *(ICML 2016)*
+
+:sparkle: **Code:**
+
+*   Torch-based: [1]
+*   TensorFlow-based: 
 
 :white_check_mark: [Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis] *(CVPR 2017)*
 
+:sparkle: **Code:**
+
+*   Torch-based: [1]
+
 :white_check_mark: [Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks] *(ECCV 2016)*
+
+:sparkle: **Code:**
+
+*   Torch-based: [1]
 
 :white_check_mark: [A Learned Representation for Artistic Style] *(ICLR 2017)*
 
+:sparkle: **Code:**
+
+*   TensoeFlow-based: [1]
+
 :white_check_mark: [Fast Patch-based Style Transfer of Arbitrary Style]
+
+:sparkle: **Code:**
+
+*   Torch-based: [1]
 
 ## Slight Modifications of Current Methods
 
@@ -66,21 +99,41 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [Controlling Perceptual Factors in Neural Style Transfer]
 
+:sparkle: **Code:**
+
+*   Torch-based: [1]
+
 ###  2. Modifications of Generative Neural Methods
 
 :white_check_mark: [Instance Normalization：The Missing Ingredient for Fast Stylization]
 
+:sparkle: **Code:**
+
+*   Torch-based: [1]
+
 :white_check_mark: [Depth-Preserving Style Transfer]
+
+:sparkle: **Code:**
+
+*   Torch-based: [1]
 
 ## Extensions to Specific Types of Images
 
 :white_check_mark: [Neural Doodle_Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork]
+
+:sparkle: **Code:**
+
+*   Torch-based: [1]
 
 :white_check_mark: [Painting Style Transfer for Head Portraits Using Convolutional Neural Networks] *(SIGGRAPH 2016)*
 
 :white_check_mark: [Son of Zorn's Lemma Targeted Style Transfer Using Instance-aware Semantic Segmentation]
 
 :white_check_mark: [Artistic Style Transfer for Videos] *(GCPR 2016)*
+
+:sparkle: **Code:**
+
+*   Torch-based: [1]
 
 :white_check_mark: [DeepMovie: Using Optical Flow and Deep Neural Networks to Stylize Movies]
 
