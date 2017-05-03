@@ -1,4 +1,4 @@
-# Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
+# Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="40" width="40" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
 Mentioned papers and corresponding codes in our paper "Neural Style Transfer: A Review"
 
 ## Citation (to be updated)
@@ -23,9 +23,8 @@ If you find this repository useful for your research, please cite
 
 :sparkle: **Code:**
 
--      Torch-based: [1]
-
--      Torch-based: 
+*   Torch-based: [1]
+*   Torch-based: 
 
 :white_check_mark: [Image Style Transfer Using Convolutional Neural Networks] *(CVPR 2016)*
 
