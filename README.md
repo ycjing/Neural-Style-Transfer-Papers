@@ -149,5 +149,6 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Imaging Novecento. A Mobile App for Automatic Recognition of Artworks and Transfer of Artistic Styles**]
 
+## Blogs 
 
 
