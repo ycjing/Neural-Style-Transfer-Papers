@@ -13,13 +13,13 @@ If you find this repository useful for your research, please cite
 }
 ```
 
-## <u>A Taxonomy of Current Methods</u>
+## A Taxonomy of Current Methods
 
 ### 1. Descriptive Neural Methods Based On Image Iteration
 
 ####  1.1. MMD-based Descriptive Neural Methods
 
-:white_check_mark: [A Neural Algorithm of Artistic Style] [[Paper]](https://arxiv.org/abs/1406.2661)[[Code]](https://github.com/goodfeli/adversarial) [The First Neural Style Transfer Paper] 
+:white_check_mark: [A Neural Algorithm of Artistic Style] [[Paper]](https://arxiv.org/abs/1406.2661)
 
 :white_check_mark: [Image Style Transfer Using Convolutional Neural Networks]
 
@@ -29,7 +29,7 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [Content-Aware Neural Style Transfer]
 
-:white_check_mark: [Towards Deep Style Transfer A Content-Aware Perspective]
+:white_check_mark: [Towards Deep Style Transfer: A Content-Aware Perspective]
 
 ####  1.2. MRF-based Descriptive Neural Methods
 
@@ -41,12 +41,43 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [Perceptual Losses for Real-Time Style Transfer and Super-Resolution]
 
-:white_check_mark: [Texture Networks Feed-forward Synthesis of Textures and Stylized Images]
+:white_check_mark: [Texture Networks: Feed-forward Synthesis of Textures and Stylized Images]
+
+:white_check_mark: [Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis]
 
 :white_check_mark: [Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks]
 
 :white_check_mark: [A Learned Representation for Artistic Style]
 
 :white_check_mark: [Fast Patch-based Style Transfer of Arbitrary Style]
+
+## Slight Modifications of Current Methods
+
+###  1. Modifications of Descriptive Neural Methods
+
+:white_check_mark: [Exploring the Neural Algorithm of Artistic Style]
+
+:white_check_mark: [Improving the Neural Algorithm of Artistic Style]
+
+:white_check_mark: [Controlling Perceptual Factors in Neural Style Transfer]
+
+###  2. Modifications of Generative Neural Methods
+
+:white_check_mark: [Instance Normalization：The Missing Ingredient for Fast Stylization]
+
+:white_check_mark: [Depth-Preserving Style Transfer]
+
+## Extensions to Specific Types of Images
+
+:white_check_mark: [Neural Doodle_Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork]
+
+:white_check_mark: [Painting Style Transfer for Head Portraits Using Convolutional Neural Networks]
+
+:white_check_mark: [Son of Zorn's Lemma Targeted Style Transfer Using Instance-aware Semantic Segmentation]
+
+:white_check_mark: [Artistic Style Transfer for Videos]
+
+:white_check_mark: [Using Optical Flow and Deep Neural Networks to Stylize Movies]
+
 
 
