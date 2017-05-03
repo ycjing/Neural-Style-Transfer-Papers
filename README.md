@@ -1,5 +1,5 @@
 # Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="30" width="30" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
-Mentioned papers and corresponding codes in our paper "Neural Style Transfer: A Review"
+Selected papers and corresponding codes in our paper "Neural Style Transfer: A Review"
 
 ## Citation (to be updated)
 If you find this repository useful for your research, please cite
@@ -57,6 +57,10 @@ If you find this repository useful for your research, please cite
 *   Torch-based: [1]
 *   TensorFlow-based: 
 *   Chainer-based: 
+
+:sparkle: **Code:**
+
+*   Pre-trained Models: 
 
 :white_check_mark: [**Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**] *(ICML 2016)*
 
