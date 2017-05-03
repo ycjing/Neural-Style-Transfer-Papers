@@ -19,7 +19,7 @@ If you find this repository useful for your research, please cite
 
 ####  1.1. MMD-based Descriptive Neural Methods
 
-:white_check_mark: [A Neural Algorithm of Artistic Style] [[Paper]](https://arxiv.org/abs/1406.2661) *(First Neural Style Transfer Paper)*
+:white_check_mark: [**A Neural Algorithm of Artistic Style**] [[Paper]](https://arxiv.org/abs/1406.2661) *(First Neural Style Transfer Paper)*
 
 :sparkle: **Code:**
 
