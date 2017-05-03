@@ -1,5 +1,5 @@
-# Neural-Style-Transfer-Papers
-:green_book: Mentioned papers and corresponding codes in our paper "Neural Style Transfer: A Review"
+# Neural-Style-Transfer-Papers :green_book: 
+Mentioned papers and corresponding codes in our paper "Neural Style Transfer: A Review"
 
 ## Citation (to be updated)
 If you find this repository useful for your research, please cite
@@ -21,7 +21,10 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [A Neural Algorithm of Artistic Style] [[Paper]](https://arxiv.org/abs/1406.2661) *(First Neural Style Transfer Paper)*
 
-& rArr Code
+:sparkle: **Code:**
+
+-[[Torch-based]](https://arxiv.org/abs/1406.2661)
+-[[Torch-based]](https://arxiv.org/abs/1406.2661)
 
 :white_check_mark: [Image Style Transfer Using Convolutional Neural Networks] *(CVPR 2016)*
 
