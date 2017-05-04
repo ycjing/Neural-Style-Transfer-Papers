@@ -25,6 +25,7 @@ If you find this repository useful for your research, please cite
 
 *   Torch-based: [1]
 *   TensorFlow-based: 
+*   Caffe-based: [[fzliu's implementation]](https://github.com/fzliu/style-transfer)
 *   Keras-based: 
 *   MatConvNet-based: 
 
