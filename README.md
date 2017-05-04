@@ -25,8 +25,9 @@ If you find this repository useful for your research, please cite
 
 *   Torch-based: [1]
 *   TensorFlow-based: 
-*   Caffe-based: [[fzliu's implementation]](https://github.com/fzliu/style-transfer)
+*   [Caffe-based](https://github.com/fzliu/style-transfer)
 *   Keras-based: 
+*   [MXNet-based](https://github.com/pavelgonchar/neural-art-mini)
 *   MatConvNet-based: 
 
 :white_check_mark: [**Image Style Transfer Using Convolutional Neural Networks**] [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) *(CVPR 2016)*
@@ -61,7 +62,7 @@ If you find this repository useful for your research, please cite
 
 :sparkle: **Code:**
 
-*   Pre-trained Models: 
+*   Pre-trained Models: [[Chainer-models]]https://github.com/gafr/chainer-fast-neuralstyle-models
 
 :white_check_mark: [**Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**] [[Paper]](http://www.jmlr.org/proceedings/papers/v48/ulyanov16.pdf)  *(ICML 2016)*
 
