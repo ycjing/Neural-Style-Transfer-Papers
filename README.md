@@ -62,8 +62,10 @@ If you find this repository useful for your research, please cite
 
 :sparkle: **Pre-trained Models:**
 
+*   [Torch-models](https://github.com/ProGamerGov/Torch-Models)
 *   [Chainer-models](https://github.com/gafr/chainer-fast-neuralstyle-models)
-https://github.com/ProGamerGov/Torch-Models
+
+
 :white_check_mark: [**Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**] [[Paper]](http://www.jmlr.org/proceedings/papers/v48/ulyanov16.pdf)  *(ICML 2016)*
 
 :sparkle: **Code:**
@@ -131,7 +133,7 @@ https://github.com/ProGamerGov/Torch-Models
 
 :sparkle: **Code:**
 
-*   [Torch-based(https://github.com/alexjc/neural-doodle）
+*   [Torch-based](https://github.com/alexjc/neural-doodle）
 
 :white_check_mark: [**Painting Style Transfer for Head Portraits Using Convolutional Neural Networks**] [[Paper]](http://dl.acm.org/citation.cfm?id=2925968)  *(SIGGRAPH 2016)*
 
