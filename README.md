@@ -174,7 +174,7 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: https://research.googleblog.com/2016/10/supercharging-style-transfer.html
 
-## Existing New Directions
+## Exciting New Directions
 
 :white_check_mark: **Character Style Transfer**
 
