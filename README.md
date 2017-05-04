@@ -1,5 +1,5 @@
 # Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="30" width="30" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
-Selected papers and corresponding collected codes in our review paper "**Neural Style Transfer: A Review**"
+Selected papers and corresponding codes in our review paper "**Neural Style Transfer: A Review**"
 
 ## Citation (to be updated)
 If you find this repository useful for your research, please cite
