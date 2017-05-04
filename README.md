@@ -149,10 +149,19 @@ If you find this repository useful for your research, please cite
 
 ## Application
 
-Ostagram 
+:white_check_mark: [**Prisma**](https://prisma-ai.com/) 
+
+:white_check_mark: [**Ostagram**](https://ostagram.ru/) 
+
 :sparkle: **Code:**
-https://github.com/SergeyMorugin/ostagram
-https://deepforger.com/
+
+*   [Website code](https://github.com/SergeyMorugin/ostagram)
+
+:white_check_mark: [**Deep Forger**](https://deepforger.com/) 
+
+
+
+
 ## Application Papers
 
 :white_check_mark: [**Bringing Impressionism to Life with Neural Style Transfer in Come Swim**] [[Paper]](https://arxiv.org/pdf/1701.04928.pdf) 
