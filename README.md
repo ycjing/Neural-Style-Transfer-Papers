@@ -133,7 +133,7 @@ If you find this repository useful for your research, please cite
 
 :sparkle: **Code:**
 
-*   [Torch-based](https://github.com/alexjc/neural-doodle）
+*   [Torch-based](https://github.com/alexjc/neural-doodle)
 
 :white_check_mark: [**Painting Style Transfer for Head Portraits Using Convolutional Neural Networks**] [[Paper]](http://dl.acm.org/citation.cfm?id=2925968)  *(SIGGRAPH 2016)*
 
