@@ -153,4 +153,4 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: https://code.facebook.com/posts/196146247499076/delivering-real-time-ai-in-the-palm-of-your-hand/
 
-:white_check_mark: shttps://research.googleblog.com/2016/10/supercharging-style-transfer.html
+:white_check_mark: https://research.googleblog.com/2016/10/supercharging-style-transfer.html
