@@ -6,7 +6,7 @@ If you find this repository useful for your research, please cite
 
 ```
 @misc{XXX,
-  title = {XXX},
+  title = {Neural Style Transfer: A Review},
   author = {XXX},
   booktitle = {XXX},
   year = {XXX}
