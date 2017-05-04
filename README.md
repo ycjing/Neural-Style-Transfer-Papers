@@ -5,7 +5,8 @@ Selected papers and corresponding collected codes in our review paper "**Neural 
 If you find this repository useful for your research, please cite
 
 ```
-（remaining to be updated）
+(remaining to be updated)
+
 @misc{XXX,
   title = {Neural Style Transfer: A Review},
   author = {XXX},
