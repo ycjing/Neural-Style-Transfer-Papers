@@ -23,12 +23,12 @@ If you find this repository useful for your research, please cite
 
 :sparkle: **Code:**
 
-*   Torch-based: [1]
-*   TensorFlow-based: 
-*   [Caffe-based](https://github.com/fzliu/style-transfer)
-*   Keras-based: 
+*   [Torch-based](https://github.com/jcjohnson/neural-style)
+*   [TensorFlow-based](https://github.com/anishathalye/neural-style)
+*   [Caffe-based](https://github.com/fzliu/style-transfer) 
+*   [Keras-based](https://github.com/titu1994/Neural-Style-Transfer)
 *   [MXNet-based](https://github.com/pavelgonchar/neural-art-mini)
-*   MatConvNet-based: 
+*   [MatConvNet-based](https://github.com/aravindhm/neural-style-matconvnet)
 
 :white_check_mark: [**Image Style Transfer Using Convolutional Neural Networks**] [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) *(CVPR 2016)*
 
@@ -46,7 +46,7 @@ If you find this repository useful for your research, please cite
 
 :sparkle: **Code:**
 
-*   Torch-based: [1]
+*   [Torch-based](https://github.com/chuanli11/CNNMRF)
 
 :white_check_mark: [**Neural Doodle_Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork**] [[Paper]](https://arxiv.org/pdf/1603.01768.pdf) 
 
@@ -56,44 +56,44 @@ If you find this repository useful for your research, please cite
 
 :sparkle: **Code:**
 
-*   Torch-based: [1]
-*   TensorFlow-based: 
-*   Chainer-based: 
+*   [Torch-based](https://github.com/jcjohnson/fast-neural-style)
+*   [TensorFlow-based](https://github.com/hzy46/fast-neural-style-tensorflow)
+*   [Chainer-based](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
 
-:sparkle: **Code:**
+:sparkle: **Pre-trained Models:**
 
-*   Pre-trained Models: [[Chainer-models]]https://github.com/gafr/chainer-fast-neuralstyle-models
-
+*   [Chainer-models](https://github.com/gafr/chainer-fast-neuralstyle-models)
+https://github.com/ProGamerGov/Torch-Models
 :white_check_mark: [**Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**] [[Paper]](http://www.jmlr.org/proceedings/papers/v48/ulyanov16.pdf)  *(ICML 2016)*
 
 :sparkle: **Code:**
 
-*   Torch-based: [1]
-*   TensorFlow-based: 
+*   [Torch-based](https://github.com/DmitryUlyanov/texture_nets)
+*   [TensorFlow-based](https://github.com/tgyg-jegli/tf_texture_net)
 
 :white_check_mark: [**Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis**] [[Paper]](https://arxiv.org/pdf/1701.02096.pdf)  *(CVPR 2017)*
 
 :sparkle: **Code:**
 
-*   Torch-based: [1]
+*   [Torch-based](https://github.com/DmitryUlyanov/texture_nets)
 
 :white_check_mark: [**Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks**] [[Paper]](https://arxiv.org/pdf/1604.04382.pdf)  *(ECCV 2016)*
 
 :sparkle: **Code:**
 
-*   Torch-based: [1]
+*   [Torch-based](https://github.com/chuanli11/MGANs)
 
 :white_check_mark: [**A Learned Representation for Artistic Style**] [[Paper]](https://arxiv.org/pdf/1610.07629.pdf)  *(ICLR 2017)*
 
 :sparkle: **Code:**
 
-*   TensoeFlow-based: [1]
+*   [TensorFlow-based](https://github.com/tensorflow/magenta/tree/master/magenta/models/image_stylization)
 
 :white_check_mark: [**Fast Patch-based Style Transfer of Arbitrary Style**] [[Paper]](https://arxiv.org/pdf/1612.04337.pdf) 
 
 :sparkle: **Code:**
 
-*   Torch-based: [1]
+*   [Torch-based](https://github.com/rtqichen/style-swap)
 
 ## Slight Modifications of Current Methods
 
@@ -109,7 +109,7 @@ If you find this repository useful for your research, please cite
 
 :sparkle: **Code:**
 
-*   Torch-based: [1]
+*   [Torch-based](https://github.com/leongatys/NeuralImageSynthesis)
 
 ###  2. Modifications of Generative Neural Methods
 
@@ -117,13 +117,13 @@ If you find this repository useful for your research, please cite
 
 :sparkle: **Code:**
 
-*   Torch-based: [1]
+*   [Torch-based](https://github.com/DmitryUlyanov/texture_nets)
 
 :white_check_mark: [**Depth-Preserving Style Transfer**] [[Paper]](https://github.com/xiumingzhang/depth-preserving-neural-style-transfer/blob/master/report/egpaper_final.pdf) 
 
 :sparkle: **Code:**
 
-*   Torch-based: [1]
+*   [Torch-based](https://github.com/xiumingzhang/depth-preserving-neural-style-transfer)
 
 ## Extensions to Specific Types of Images
 
@@ -131,7 +131,7 @@ If you find this repository useful for your research, please cite
 
 :sparkle: **Code:**
 
-*   Torch-based: [1]
+*   [Torch-based(https://github.com/alexjc/neural-doodle）
 
 :white_check_mark: [**Painting Style Transfer for Head Portraits Using Convolutional Neural Networks**] [[Paper]](http://dl.acm.org/citation.cfm?id=2925968)  *(SIGGRAPH 2016)*
 
@@ -141,10 +141,16 @@ If you find this repository useful for your research, please cite
 
 :sparkle: **Code:**
 
-*   Torch-based: [1]
+*   [Torch-based](https://github.com/manuelruder/artistic-videos)
 
 :white_check_mark: [**DeepMovie: Using Optical Flow and Deep Neural Networks to Stylize Movies**] [[Paper]](https://arxiv.org/pdf/1605.08153.pdf) 
 
+## Application
+
+Ostagram 
+:sparkle: **Code:**
+https://github.com/SergeyMorugin/ostagram
+https://deepforger.com/
 ## Application Papers
 
 :white_check_mark: [**Bringing Impressionism to Life with Neural Style Transfer in Come Swim**] [[Paper]](https://arxiv.org/pdf/1701.04928.pdf) 
@@ -156,3 +162,4 @@ If you find this repository useful for your research, please cite
 :white_check_mark: https://code.facebook.com/posts/196146247499076/delivering-real-time-ai-in-the-palm-of-your-hand/
 
 :white_check_mark: https://research.googleblog.com/2016/10/supercharging-style-transfer.html
+
