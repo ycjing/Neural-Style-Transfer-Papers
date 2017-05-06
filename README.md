@@ -1,5 +1,5 @@
 # Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="30" width="30" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
-Selected papers and corresponding codes in our review paper "**Neural Style Transfer: A Review**"
+Selected papers, corresponding codes and pre-trained models in our review paper "**Neural Style Transfer: A Review**"
 
 ## Citation (to be updated)
 If you find this repository useful for your research, please cite
@@ -183,3 +183,7 @@ If you find this repository useful for your research, please cite
 *   [**Awesome Typography: Statistics-based Text Effects Transfer**][[Paper]](https://arxiv.org/abs/1611.09026)
 
 *   [**Rewrite: Neural Style Transfer For Chinese Fonts**][[Project]](https://github.com/kaonashi-tyc/Rewrite)
+
+## Pre-trained Models
+
+:white_check_mark: **Coming Soon**
