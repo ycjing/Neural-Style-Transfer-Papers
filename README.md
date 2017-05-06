@@ -14,6 +14,9 @@ If you find this repository useful for your research, please cite
   year = {XXX}
 }
 ```
+## Pre-trained Models in Our Paper "Neural Style Transfer: A Review"
+
+:white_check_mark: **Coming Soon**
 
 ## A Taxonomy of Current Methods
 
@@ -184,6 +187,4 @@ If you find this repository useful for your research, please cite
 
 *   [**Rewrite: Neural Style Transfer For Chinese Fonts**][[Project]](https://github.com/kaonashi-tyc/Rewrite)
 
-## Pre-trained Models
 
-:white_check_mark: **Coming Soon**
