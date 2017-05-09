@@ -1,5 +1,5 @@
 # Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="30" width="30" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
-Selected papers, corresponding codes and pre-trained models in Neural Style Transfer.
+Selected papers, corresponding codes and pre-trained models of Neural Style Transfer.
 
 ## Our Pre-trained Models 
 
