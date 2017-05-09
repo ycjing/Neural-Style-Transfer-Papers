@@ -1,9 +1,12 @@
 # Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="30" width="30" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
-Selected papers, corresponding codes and pre-trained models in our review paper "**Neural Style Transfer: A Review**"
+Selected papers, corresponding codes and pre-trained models in Neural Style Transfer.
 
-## Citation (to be updated)
+```in our review paper "**Neural Style Transfer: A Review**"```
+
+```## Citation (to be updated)
 If you find this repository useful for your research, please cite
 
+```
 ```
 (remaining to be updated)
 
@@ -14,7 +17,7 @@ If you find this repository useful for your research, please cite
   year = {XXX}
 }
 ```
-## Pre-trained Models in Our Paper "Neural Style Transfer: A Review"
+## Our Pre-trained Models ```in Our Paper "Neural Style Transfer: A Review"```
 
 :white_check_mark: **Coming Soon**
 
