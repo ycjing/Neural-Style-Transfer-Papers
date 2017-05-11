@@ -129,7 +129,7 @@ Selected papers, corresponding codes and pre-trained models of Neural Style Tra
 
 :sparkle: **Code:**
 
-*   [Torch-based](https://github.com/alexjc/neural-doodle）
+*   [Torch-based](https://github.com/alexjc/neural-doodle)
 
 :white_check_mark: [**Painting Style Transfer for Head Portraits Using Convolutional Neural Networks**] [[Paper]](http://dl.acm.org/citation.cfm?id=2925968)  *(SIGGRAPH 2016)*
 
