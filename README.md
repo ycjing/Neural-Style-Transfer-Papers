@@ -28,6 +28,10 @@ Selected papers, corresponding codes and pre-trained models of Neural Style Tra
 
 :white_check_mark: [**Demystifying Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1701.01036.pdf)  *(Theoretical Explanation)*
 
+:sparkle: **Code:**
+
+*   [MXNet-based](https://github.com/lyttonhao/Neural-Style-MMD)
+
 :white_check_mark: [**Content-Aware Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1601.04568.pdf) 
 
 :white_check_mark: [**Towards Deep Style Transfer: A Content-Aware Perspective**] [[Paper]](http://www.bmva.org/bmvc/2016/papers/paper008/paper008.pdf)  *(BMVC 2016)*
