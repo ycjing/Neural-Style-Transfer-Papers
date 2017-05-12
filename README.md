@@ -11,7 +11,6 @@ If you find this repository useful for your research, please cite
   journal={arXiv preprint arXiv:1705.04058},
   year={2017}
 }
-
 ```
 ## Pre-trained Models in Our Paper
 
