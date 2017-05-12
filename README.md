@@ -13,7 +13,7 @@ If you find this repository useful for your research, please cite
 }
 
 ```
-## Pretrained Models in Our Paper
+## Pre-trained Models in Our Paper
 
 :white_check_mark:[Coming Soon]
 
