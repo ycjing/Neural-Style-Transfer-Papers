@@ -1,9 +1,18 @@
 # Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="30" width="30" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
-Selected papers, corresponding codes and pre-trained models of Neural Style Transfer.
+Selected papers and corresponding codes in our review paper "**[Neural Style Transfer: A Review](https://arxiv.org/abs/1705.04058)**"
 
-## Our Pre-trained Models 
+## Citation 
+If you find this repository useful for your research, please cite
 
-:white_check_mark: **Coming Soon**
+```
+@article{jing2017neural,
+  title={Neural Style Transfer: A Review},
+  author={Jing, Yongcheng and Yang, Yezhou and Feng, Zunlei and Ye, Jingwen and Song, Mingli},
+  journal={arXiv preprint arXiv:1705.04058},
+  year={2017}
+}
+
+```
 
 ## A Taxonomy of Current Methods
 
@@ -177,5 +186,6 @@ Selected papers, corresponding codes and pre-trained models of Neural Style Tra
 *   [**Awesome Typography: Statistics-based Text Effects Transfer**][[Paper]](https://arxiv.org/abs/1611.09026)
 
 *   [**Rewrite: Neural Style Transfer For Chinese Fonts**][[Project]](https://github.com/kaonashi-tyc/Rewrite)
+
 
 
