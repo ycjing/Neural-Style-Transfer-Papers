@@ -104,6 +104,13 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/rtqichen/style-swap)
 
+:white_check_mark: [**Multi-style Generative Network for Real-time Transfer**] [[Paper]](https://arxiv.org/pdf/1703.06953.pdf)
+
+:sparkle: **Code:**
+
+*   [PyTorch-based](https://github.com/zhanghang1989/PyTorch-Style-Transfer)
+*   [Torch-based](https://github.com/zhanghang1989/MSG-Net)
+
 ## Slight Modifications of Current Methods
 
 ###  1. Modifications of Descriptive Neural Methods
