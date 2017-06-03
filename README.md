@@ -64,7 +64,7 @@ If you find this repository useful for your research, please cite
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/jcjohnson/fast-neural-style)
-*   [TensorFlow-based](https://github.com/hzy46/fast-neural-style-tensorflow)
+*   [TensorFlow-based](https://github.com/lengstrom/fast-style-transfer)
 *   [Chainer-based](https://github.com/yusuketomoto/chainer-fast-neuralstyle)
 
 :sparkle: **Pre-trained Models:**
