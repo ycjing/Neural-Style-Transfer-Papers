@@ -190,11 +190,11 @@ If you find this repository useful for your research, please cite
 
 ## Blogs 
 
-:white_check_mark: [**Caffe2Go**]https://code.facebook.com/posts/196146247499076/delivering-real-time-ai-in-the-palm-of-your-hand/
+:white_check_mark: [**Caffe2Go**][https://code.facebook.com/posts/196146247499076/delivering-real-time-ai-in-the-palm-of-your-hand/]
 
-:white_check_mark: [**Supercharging Style Transfer**]https://research.googleblog.com/2016/10/supercharging-style-transfer.html
+:white_check_mark: [**Supercharging Style Transfer**][https://research.googleblog.com/2016/10/supercharging-style-transfer.html]
 
-:white_check_mark: [**Issue of Layer Chosen Strategy**]http://yongchengjing.com/pdf/Issue_layerChosenStrategy_neuralStyleTransfer.pdf
+:white_check_mark: [**Issue of Layer Chosen Strategy**][http://yongchengjing.com/pdf/Issue_layerChosenStrategy_neuralStyleTransfer.pdf]
 
 ## Exciting New Directions
 
