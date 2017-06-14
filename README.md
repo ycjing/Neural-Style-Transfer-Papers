@@ -204,5 +204,12 @@ If you find this repository useful for your research, please cite
 
 *   [**Rewrite: Neural Style Transfer For Chinese Fonts**][[Project]](https://github.com/kaonashi-tyc/Rewrite)
 
+:white_check_mark: **Visual Attribute Transfer**[[Paper]](https://arxiv.org/pdf/1705.06830.pdf)
 
+## Unclassified
 
+:white_check_mark: [**Deep Photo Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.07511.pdf) 
+
+:sparkle: **Code:**
+
+*   [Torch-based](https://github.com/luanfujun/deep-photo-styletransfer)
