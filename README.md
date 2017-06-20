@@ -167,6 +167,10 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**DeepMovie: Using Optical Flow and Deep Neural Networks to Stylize Movies**] [[Paper]](https://arxiv.org/pdf/1605.08153.pdf) 
 
+:white_check_mark: [**Characterizing and Improving Stability in Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1705.02092.pdf)
+
+:white_check_mark: [**Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN**] [[Paper]](https://arxiv.org/pdf/1706.03319.pdf)
+
 ## Application
 
 :white_check_mark: [**Prisma**](https://prisma-ai.com/) 
@@ -178,8 +182,6 @@ If you find this repository useful for your research, please cite
 *   [Website code](https://github.com/SergeyMorugin/ostagram)
 
 :white_check_mark: [**Deep Forger**](https://deepforger.com/) 
-
-
 
 
 ## Application Papers
@@ -196,6 +198,8 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Issue of Layer Chosen Strategy**][http://yongchengjing.com/pdf/Issue_layerChosenStrategy_neuralStyleTransfer.pdf]
 
+:white_check_mark: [**Picking an optimizer for Style Transfer**][https://blog.slavv.com/picking-an-optimizer-for-style-transfer-86e7b8cba84b]
+
 ## Exciting New Directions
 
 :white_check_mark: **Character Style Transfer**
@@ -204,16 +208,20 @@ If you find this repository useful for your research, please cite
 
 *   [**Rewrite: Neural Style Transfer For Chinese Fonts**][[Project]](https://github.com/kaonashi-tyc/Rewrite)
 
-:white_check_mark: **Visual Attribute Transfer**[[Paper]](https://arxiv.org/pdf/1705.06830.pdf)
+:white_check_mark: **Visual Attribute Transfer**[[Paper]](https://arxiv.org/pdf/1705.06830.pdf)  *(SIGGRAPH 2017)*
 
 :sparkle: **Code:**
 
 *   [Caffe-based](https://github.com/msracver/Deep-Image-Analogy)
 
-## Unclassified
+## Unclassified (To Be Updated Soon)
 
 :white_check_mark: [**Deep Photo Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.07511.pdf) 
 
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/luanfujun/deep-photo-styletransfer)
+
+:white_check_mark: [**StyleBank: An Explicit Representation for Neural Image Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.09210.pdf)  *(CVPR 2017)*
+
+:white_check_mark: [**Exploring the structure of a real-time, arbitrary neural artistic stylization network**] [[Paper]](https://arxiv.org/pdf/1705.06830.pdf)
