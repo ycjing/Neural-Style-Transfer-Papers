@@ -206,6 +206,10 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: **Visual Attribute Transfer**[[Paper]](https://arxiv.org/pdf/1705.06830.pdf)
 
+:sparkle: **Code:**
+
+*   [Caffe-based](https://github.com/msracver/Deep-Image-Analogy)
+
 ## Unclassified
 
 :white_check_mark: [**Deep Photo Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.07511.pdf) 
