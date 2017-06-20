@@ -216,7 +216,7 @@ If you find this repository useful for your research, please cite
 
 ## Unclassified (To Be Updated Soon)
 
-:white_check_mark: [**Deep Photo Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.07511.pdf) 
+:white_check_mark: [**Deep Photo Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.07511.pdf)  *(CVPR 2017)*
 
 :sparkle: **Code:**
 
