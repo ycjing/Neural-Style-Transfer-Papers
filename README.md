@@ -28,6 +28,7 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/jcjohnson/neural-style)
 *   [TensorFlow-based](https://github.com/anishathalye/neural-style)
+*   [TensorFlow-based with L-BFGS optimizer support](https://github.com/cysmith/neural-style-tf)
 *   [Caffe-based](https://github.com/fzliu/style-transfer) 
 *   [Keras-based](https://github.com/titu1994/Neural-Style-Transfer)
 *   [MXNet-based](https://github.com/pavelgonchar/neural-art-mini)
