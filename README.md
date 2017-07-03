@@ -230,3 +230,5 @@ If you find this repository useful for your research, please cite
 :white_check_mark: [**StyleBank: An Explicit Representation for Neural Image Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.09210.pdf)  *(CVPR 2017)*
 
 :white_check_mark: [**Exploring the Structure of a Real-time, Arbitrary Neural Artistic Stylization Network**] [[Paper]](https://arxiv.org/pdf/1705.06830.pdf)
+
+:white_check_mark: [**Diversified Texture Synthesis with Feed-forward Networks**] [[Paper]](https://arxiv.org/pdf/1703.01664.pdf)  *(CVPR 2017)*
