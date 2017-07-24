@@ -112,7 +112,7 @@ If you find this repository useful for your research, please cite
 *   [PyTorch-based](https://github.com/zhanghang1989/PyTorch-Style-Transfer)
 *   [Torch-based](https://github.com/zhanghang1989/MSG-Net)
 
-:white_check_mark: [**Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization**] [[Paper]](https://arxiv.org/pdf/1703.06868.pdf)
+:white_check_mark: [**Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization**] [[Paper]](https://arxiv.org/pdf/1703.06868.pdf)  *(ICCV 2017)*
 
 :sparkle: **Code:**
 
