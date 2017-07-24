@@ -238,3 +238,5 @@ If you find this repository useful for your research, please cite
 :sparkle: **Code:**
 
 *   [Torch-based & TensorFlow-based](https://github.com/askerlee/lapstyle)
+
+:white_check_mark: [**Diversified Texture Synthesis With Feed-Forward Networks**] [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Diversified_Texture_Synthesis_CVPR_2017_paper.pdf)  *(CVPR 2017)* 
