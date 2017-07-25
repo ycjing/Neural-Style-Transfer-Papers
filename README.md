@@ -1,7 +1,7 @@
 # Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="30" width="30" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
 Selected papers, corresponding codes and pre-trained models in our review paper "**[Neural Style Transfer: A Review](https://arxiv.org/abs/1705.04058)**" 
 
-*(Paper is under a major revision and the organization below may not be consistent with the original paper. We will release the newest version of the paper ASAP. Also any comment about our paper is welcomed and will be considered to add to the ackonwledgement of the paper. Thank you very much!)*
+*(This Paper is under a major revision and the organization below may not be consistent with the original paper. We will release the newest version of the paper ASAP. Also any comment about our paper is welcomed and will be considered to add to the ackonwledgement of the paper. Thank you very much!)*
 
 ## Citation 
 If you find this repository useful for your research, please cite
