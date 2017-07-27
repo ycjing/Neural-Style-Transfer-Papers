@@ -150,6 +150,8 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/xiumingzhang/depth-preserving-neural-style-transfer)
 
+:white_check_mark: [**Depth-Aware Neural Style Transfer**]  *(NPAR 2017)*
+
 ## Extensions to Specific Types of Images
 
 :white_check_mark: [**Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork**] [[Paper]](https://arxiv.org/pdf/1603.01768.pdf) 
