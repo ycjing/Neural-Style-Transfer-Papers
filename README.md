@@ -98,6 +98,8 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/chuanli11/MGANs)
 
+:white_check_mark: [**Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer**] [[Paper]](https://arxiv.org/pdf/1612.01895.pdf)  *(CVPR 2017)* 
+
 ### 2.2. Multiple-Style-Per-Model "Fast" Neural Methods
 
 :white_check_mark: [**A Learned Representation for Artistic Style**] [[Paper]](https://arxiv.org/pdf/1610.07629.pdf)  *(ICLR 2017)*
@@ -256,6 +258,6 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/Yijunmaverick/MultiTextureSynthesis)
 
-:white_check_mark: [**Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer**] [[Paper]](https://arxiv.org/pdf/1612.01895.pdf)  *(CVPR 2017)* 
+
 
 :white_check_mark: [**Incorporating Long-range Consistency in CNN-based Texture Generation**] [[Paper]](https://arxiv.org/pdf/1606.01286.pdf)  *(ICLR 2017)* 
