@@ -22,7 +22,7 @@ If you find this repository useful for your research, please cite
 
 ### 1. "Slow" Neural Methods Based On Image Optimization
 
-####  1.1. Parametric "Slow" Neural Methods with Summary Statistics
+###  1.1. Parametric "Slow" Neural Methods with Summary Statistics
 
 :white_check_mark: [**A Neural Algorithm of Artistic Style**] [[Paper]](https://arxiv.org/pdf/1508.06576.pdf) *(First Neural Style Transfer Paper)*
 
@@ -50,7 +50,7 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Towards Deep Style Transfer: A Content-Aware Perspective**] [[Paper]](http://www.bmva.org/bmvc/2016/papers/paper008/paper008.pdf)  *(BMVC 2016)*
 
-####  1.2. Non-parametric "Slow" Neural Methods with MRFs
+###  1.2. Non-parametric "Slow" Neural Methods with MRFs
 
 :white_check_mark: [**Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis**] [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Combining_Markov_Random_CVPR_2016_paper.pdf)  *(CVPR 2016)*
 
@@ -62,7 +62,7 @@ If you find this repository useful for your research, please cite
 
 ###  2. "Fast" Neural Methods Based On Model Optimization
 
-#### 2.1. Per-Style-Per-Model "Fast" Neural Methods
+### 2.1. Per-Style-Per-Model "Fast" Neural Methods
 
 
 :white_check_mark: [**Perceptual Losses for Real-Time Style Transfer and Super-Resolution**] [[Paper]](https://arxiv.org/pdf/1603.08155.pdf)  *(ECCV 2016)*
@@ -98,7 +98,7 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/chuanli11/MGANs)
 
-#### 2.2. Multiple-Style-Per-Model "Fast" Neural Methods
+### 2.2. Multiple-Style-Per-Model "Fast" Neural Methods
 
 :white_check_mark: [**A Learned Representation for Artistic Style**] [[Paper]](https://arxiv.org/pdf/1610.07629.pdf)  *(ICLR 2017)*
 
@@ -115,7 +115,7 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**StyleBank: An Explicit Representation for Neural Image Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.09210.pdf)  *(CVPR 2017)*
 
-#### 2.3. Arbitrary-Style-Per-Model "Fast" Neural Methods
+### 2.3. Arbitrary-Style-Per-Model "Fast" Neural Methods
 
 :white_check_mark: [**Fast Patch-based Style Transfer of Arbitrary Style**] [[Paper]](https://arxiv.org/pdf/1612.04337.pdf) 
 
