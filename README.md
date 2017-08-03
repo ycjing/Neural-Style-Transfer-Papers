@@ -20,9 +20,9 @@ If you find this repository useful for your research, please cite
 
 ## A Taxonomy of Current Methods
 
-### 1. Descriptive Neural Methods Based On Image Iteration
+### 1. "Slow" Neural Methods Based On Image Optimization
 
-####  1.1. MMD-based Descriptive Neural Methods
+####  1.1. Parametric "Slow" Neural Methods with Summary Statistics
 
 :white_check_mark: [**A Neural Algorithm of Artistic Style**] [[Paper]](https://arxiv.org/pdf/1508.06576.pdf) *(First Neural Style Transfer Paper)*
 
@@ -50,7 +50,7 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Towards Deep Style Transfer: A Content-Aware Perspective**] [[Paper]](http://www.bmva.org/bmvc/2016/papers/paper008/paper008.pdf)  *(BMVC 2016)*
 
-####  1.2. MRF-based Descriptive Neural Methods
+####  1.2. Non-parametric "Slow" Neural Methods with MRFs
 
 :white_check_mark: [**Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis**] [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Combining_Markov_Random_CVPR_2016_paper.pdf)  *(CVPR 2016)*
 
@@ -60,7 +60,10 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Neural Doodle_Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork**] [[Paper]](https://arxiv.org/pdf/1603.01768.pdf) 
 
-###  2. Generative Neural Methods Based On Model Iteration
+###  2. "Fast" Neural Methods Based On Model Optimization
+
+#### 2.1. Per-Style-Per-Model "Fast" Neural Methods
+
 
 :white_check_mark: [**Perceptual Losses for Real-Time Style Transfer and Super-Resolution**] [[Paper]](https://arxiv.org/pdf/1603.08155.pdf)  *(ECCV 2016)*
 
@@ -95,17 +98,13 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/chuanli11/MGANs)
 
+#### 2.2. Multiple-Style-Per-Model "Fast" Neural Methods
+
 :white_check_mark: [**A Learned Representation for Artistic Style**] [[Paper]](https://arxiv.org/pdf/1610.07629.pdf)  *(ICLR 2017)*
 
 :sparkle: **Code:**
 
 *   [TensorFlow-based](https://github.com/tensorflow/magenta/tree/master/magenta/models/image_stylization)
-
-:white_check_mark: [**Fast Patch-based Style Transfer of Arbitrary Style**] [[Paper]](https://arxiv.org/pdf/1612.04337.pdf) 
-
-:sparkle: **Code:**
-
-*   [Torch-based](https://github.com/rtqichen/style-swap)
 
 :white_check_mark: [**Multi-style Generative Network for Real-time Transfer**] [[Paper]](https://arxiv.org/pdf/1703.06953.pdf)
 
@@ -113,6 +112,16 @@ If you find this repository useful for your research, please cite
 
 *   [PyTorch-based](https://github.com/zhanghang1989/PyTorch-Style-Transfer)
 *   [Torch-based](https://github.com/zhanghang1989/MSG-Net)
+
+:white_check_mark: [**StyleBank: An Explicit Representation for Neural Image Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.09210.pdf)  *(CVPR 2017)*
+
+#### 2.3. Arbitrary-Style-Per-Model "Fast" Neural Methods
+
+:white_check_mark: [**Fast Patch-based Style Transfer of Arbitrary Style**] [[Paper]](https://arxiv.org/pdf/1612.04337.pdf) 
+
+:sparkle: **Code:**
+
+*   [Torch-based](https://github.com/rtqichen/style-swap)
 
 :white_check_mark: [**Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization**] [[Paper]](https://arxiv.org/pdf/1703.06868.pdf)  *(ICCV 2017)*
 
@@ -122,7 +131,7 @@ If you find this repository useful for your research, please cite
 
 ## Slight Modifications of Current Methods
 
-###  1. Modifications of Descriptive Neural Methods
+###  1. Modifications of "Slow" Neural Methods
 
 :white_check_mark: [**Exploring the Neural Algorithm of Artistic Style**] [[Paper]](https://arxiv.org/pdf/1602.07188.pdf) 
 
@@ -136,7 +145,7 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/leongatys/NeuralImageSynthesis)
 
-###  2. Modifications of Generative Neural Methods
+###  2. Modifications of "Fast" Neural Methods
 
 :white_check_mark: [**Instance Normalization：The Missing Ingredient for Fast Stylization**] [[Paper]](https://arxiv.org/pdf/1607.08022.pdf) 
 
@@ -152,7 +161,7 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Depth-Aware Neural Style Transfer**]  *(NPAR 2017)*
 
-## Extensions to Specific Types of Images
+## Extensions
 
 :white_check_mark: [**Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork**] [[Paper]](https://arxiv.org/pdf/1603.01768.pdf) 
 
@@ -179,6 +188,12 @@ If you find this repository useful for your research, please cite
 :white_check_mark: [**Coherent Online Video Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.09211.pdf)  *(ICCV 2017)*  *(First end-to-end video style transfer?)*
 
 :white_check_mark: [**Real-Time Neural Style Transfer for Videos**] [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf)  *(CVPR 2017)* 
+
+:white_check_mark: [**Deep Photo Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.07511.pdf)  *(CVPR 2017)*
+
+:sparkle: **Code:**
+
+*   [Torch-based](https://github.com/luanfujun/deep-photo-styletransfer)
 
 ## Application
 
@@ -225,17 +240,9 @@ If you find this repository useful for your research, please cite
 
 ## Unclassified (To Be Updated Soon)
 
-:white_check_mark: [**Deep Photo Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.07511.pdf)  *(CVPR 2017)*
 
-:sparkle: **Code:**
-
-*   [Torch-based](https://github.com/luanfujun/deep-photo-styletransfer)
-
-:white_check_mark: [**StyleBank: An Explicit Representation for Neural Image Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.09210.pdf)  *(CVPR 2017)*
 
 :white_check_mark: [**Exploring the Structure of a Real-time, Arbitrary Neural Artistic Stylization Network**] [[Paper]](https://arxiv.org/pdf/1705.06830.pdf)
-
-:white_check_mark: [**Diversified Texture Synthesis with Feed-forward Networks**] [[Paper]](https://arxiv.org/pdf/1703.01664.pdf)  *(CVPR 2017)*
 
 :white_check_mark: [**Laplacian-Steered Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1707.01253.pdf)  *(ACM MM 2017)*
 
