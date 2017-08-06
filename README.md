@@ -202,6 +202,7 @@ If you find this repository useful for your research, please cite
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/luanfujun/deep-photo-styletransfer)
+*   [TensorFlow-based](https://github.com/LouieYang/deep-photo-styletransfer-tf)
 
 ## Application
 
