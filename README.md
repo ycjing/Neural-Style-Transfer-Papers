@@ -249,6 +249,8 @@ If you find this repository useful for your research, please cite
 
 *   [Caffe-based](https://github.com/msracver/Deep-Image-Analogy)
 
+:white_check_mark: **Fashion Style Generator** [[Paper]](https://www.ijcai.org/proceedings/2017/0520.pdf)  *(IJCAI 2017)*
+
 ## Unclassified (To Be Updated Soon)
 
 
