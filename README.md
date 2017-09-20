@@ -40,7 +40,7 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Image Style Transfer Using Convolutional Neural Networks**] [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) *(CVPR 2016)*
 
-:white_check_mark: [**Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses**] [[Paper]](https://arxiv.org/pdf/1701.08893.pdf) *(CVPR 2017)*
+:white_check_mark: [**Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses**] [[Paper]](https://arxiv.org/pdf/1701.08893.pdf)
 
 :white_check_mark: [**Demystifying Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1701.01036.pdf)  *(Theoretical Explanation)* *(IJCAI 2017)*
 
@@ -241,6 +241,10 @@ If you find this repository useful for your research, please cite
 
 *   [**Awesome Typography: Statistics-based Text Effects Transfer**][[Paper]](https://arxiv.org/abs/1611.09026)  *(CVPR 2017)*
 
+:sparkle: **Code:**
+
+*   [Matlab-based](https://github.com/williamyang1991/Text-Effects-Transfer)
+
 *   [**Rewrite: Neural Style Transfer For Chinese Fonts**][[Project]](https://github.com/kaonashi-tyc/Rewrite)
 
 :white_check_mark: **Visual Attribute Transfer through Deep Image Analogy**[[Paper]](https://arxiv.org/pdf/1705.01088.pdf)  *(SIGGRAPH 2017)*
@@ -262,9 +266,6 @@ If you find this repository useful for your research, please cite
 :sparkle: **Code:**
 
 *   [Torch-based & TensorFlow-based](https://github.com/askerlee/lapstyle)
-
-
-
 
 
 :white_check_mark: [**Incorporating Long-range Consistency in CNN-based Texture Generation**] [[Paper]](https://arxiv.org/pdf/1606.01286.pdf)  *(ICLR 2017)* 
