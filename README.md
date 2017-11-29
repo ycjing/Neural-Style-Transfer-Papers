@@ -138,6 +138,8 @@ If you find this repository useful for your research, please cite
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/xunhuang1995/AdaIN-style)
+*   [TensorFlow-based](https://github.com/eridgd/AdaIN-TF)
+
 
 ## Slight Modifications of Current Methods
 
@@ -266,6 +268,7 @@ If you find this repository useful for your research, please cite
 :sparkle: **Code:**
 
 *   [Torch-based & TensorFlow-based](https://github.com/askerlee/lapstyle)
+
 
 
 :white_check_mark: [**Incorporating Long-range Consistency in CNN-based Texture Generation**] [[Paper]](https://arxiv.org/pdf/1606.01286.pdf)  *(ICLR 2017)* 
