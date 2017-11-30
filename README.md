@@ -138,7 +138,8 @@ If you find this repository useful for your research, please cite
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/xunhuang1995/AdaIN-style)
-*   [TensorFlow-based](https://github.com/eridgd/AdaIN-TF)
+*   [TensorFlow-based with Keras](https://github.com/eridgd/AdaIN-TF)
+*   [TensorFlow-based without Keras](https://github.com/elleryqueenhomels/arbitrary_style_transfer)
 
 
 ## Slight Modifications of Current Methods
