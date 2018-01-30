@@ -9,16 +9,18 @@ If you find this repository useful for your research, please cite
 ```
 @article{jing2017neural,
   title={Neural Style Transfer: A Review},
-  author={Jing, Yongcheng and Yang, Yezhou and Feng, Zunlei and Ye, Jingwen and Song, Mingli},
+  author={Jing, Yongcheng and Yang, Yezhou and Feng, Zunlei and Ye, Jingwen and Yu, Yizhou and Song, Mingli},
   journal={arXiv preprint arXiv:1705.04058},
   year={2017}
 }
 ```
-## Pre-trained Models in Our Paper
-
-:white_check_mark:[Coming Soon]
+## Materials corresponding to Our Paper
 
 :white_check_mark:[**Supplementary Materials**](http://yongchengjing.com/pdf/review_supp.pdf)
+
+:white_check_mark:[**Pre-trained Models**](https://www.dropbox.com/s/37lje23pb75ecob/Models_neuralStyleTransferReview.zip?dl=0)
+
+:white_check_mark:[**Images**](https://www.dropbox.com/s/hfv1z6eyltd5js2/Images_neuralStyleTransferReview.zip?dl=0)
 
 ## A Taxonomy of Current Methods
 
