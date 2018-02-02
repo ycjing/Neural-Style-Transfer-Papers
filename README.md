@@ -212,13 +212,15 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Deep Photo Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.07511.pdf)  *(CVPR 2017)*
 
-:white_check_mark: [**Decoder Network Over Lightweight Reconstructed Feature for Fast Semantic Style Transfer**] [[Paper]](http://feng-xu.com/papers/iccv2017_style.pdf)  *(ICCV 2017)* 
-
 
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/luanfujun/deep-photo-styletransfer)
 *   [TensorFlow-based](https://github.com/LouieYang/deep-photo-styletransfer-tf)
+
+
+:white_check_mark: [**Decoder Network Over Lightweight Reconstructed Feature for Fast Semantic Style Transfer**] [[Paper]](http://feng-xu.com/papers/iccv2017_style.pdf)  *(ICCV 2017)* 
+
 
 ## Application
 
