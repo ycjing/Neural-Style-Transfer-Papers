@@ -14,11 +14,11 @@ If you find this repository useful for your research, please cite
   year={2017}
 }
 ```
-## News!
+## *News!*
 
-#### [Feb, 2018] Update the **Images** in the **Materials**. Add the results of Li et al.'s NIPS 2018 paper.
+-[Feb, 2018] Update the *Images* in the *Materials*. Add the results of Li et al.'s NIPS 2018 paper.
 
-#### [Jan, 2018] Pre-trained models and all the content images, the style images, and the stylized results in the paper have been released.
+-[Jan, 2018] *Pre-trained models* and all the *content images*, the *style images*, and the *stylized results* in the paper have been released.
 
 ## Materials corresponding to Our Paper
 
