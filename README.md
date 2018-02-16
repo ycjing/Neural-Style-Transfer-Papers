@@ -16,9 +16,9 @@ If you find this repository useful for your research, please cite
 ```
 ## *News!*
 
--[Feb, 2018] Update the *Images* in the *Materials*. Add the results of Li et al.'s NIPS 2018 paper.
+- [Feb, 2018] Update the *Images* in the *Materials*. Add the results of Li et al.'s NIPS 2018 paper.
 
--[Jan, 2018] *Pre-trained models* and all the *content images*, the *style images*, and the *stylized results* in the paper have been released.
+- [Jan, 2018] *Pre-trained models* and all the *content images*, the *style images*, and the *stylized results* in the paper have been released.
 
 ## Materials corresponding to Our Paper
 
@@ -124,7 +124,7 @@ If you find this repository useful for your research, please cite
 
 *   [TensorFlow-based](https://github.com/tensorflow/magenta/tree/master/magenta/models/image_stylization)
 
-:white_check_mark: [**Multi-style Generative Network for Real-time Transfer**] [[Paper]](https://arxiv.org/pdf/1703.06953.pdf)
+:white_check_mark: [**Multi-style Generative Network for Real-time Transfer**] [[Paper]](https://arxiv.org/pdf/1703.06953.pdf)  ***（arXiv, 03/2017）***
 
 :sparkle: **Code:**
 
