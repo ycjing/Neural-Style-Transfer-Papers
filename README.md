@@ -24,11 +24,11 @@ If you find this repository useful for your research, please cite
 
 ## Materials corresponding to Our Paper
 
-:white_check_mark:[**Supplementary Materials**](http://yongchengjing.com/pdf/review_supp.pdf)
+:white_check_mark: [**Supplementary Materials**](http://yongchengjing.com/pdf/review_supp.pdf)
 
-:white_check_mark:[**Pre-trained Models**](https://www.dropbox.com/s/37lje23pb75ecob/Models_neuralStyleTransferReview.zip?dl=0)
+:white_check_mark: [**Pre-trained Models**](https://www.dropbox.com/s/37lje23pb75ecob/Models_neuralStyleTransferReview.zip?dl=0)
 
-:white_check_mark:[**Images**](https://www.dropbox.com/s/dkp45oc4mvqt4m8/Images_neuralStyleTransferReview_v2.zip?dl=0)
+:white_check_mark: [**Images (v2)**](https://www.dropbox.com/s/dkp45oc4mvqt4m8/Images_neuralStyleTransferReview_v2.zip?dl=0)
 
 ## A Taxonomy of Current Methods
 
