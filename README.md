@@ -18,7 +18,7 @@ If you find this repository useful for your research, please cite
 ```
 ## *News!*
 
-- [Feb, 2018] Update the *Images* *(Images_neuralStyleTransferReview_v2)* in the *Materials*. Add the results of Li et al.'s NIPS 2018 paper.
+- [Feb, 2018] Update the *Images* *(Images_neuralStyleTransferReview_v2)* in the *Materials*. Add the results of Li et al.'s NIPS 2017 paper.
 
 - [Jan, 2018] *Pre-trained models* and all the *content images*, the *style images*, and the *stylized results* in the paper have been released.
 
@@ -28,7 +28,7 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark:[**Pre-trained Models**](https://www.dropbox.com/s/37lje23pb75ecob/Models_neuralStyleTransferReview.zip?dl=0)
 
-:white_check_mark:[**Images**](https://www.dropbox.com/s/hfv1z6eyltd5js2/Images_neuralStyleTransferReview.zip?dl=0)
+:white_check_mark:[**Images**](https://www.dropbox.com/s/dkp45oc4mvqt4m8/Images_neuralStyleTransferReview_v2.zip?dl=0)
 
 ## A Taxonomy of Current Methods
 
@@ -157,6 +157,13 @@ If you find this repository useful for your research, please cite
 *   [TensorFlow-based with Keras](https://github.com/eridgd/AdaIN-TF)
 *   [TensorFlow-based without Keras](https://github.com/elleryqueenhomels/arbitrary_style_transfer)
 
+:white_check_mark: [**Universal Style Transfer via Feature Transforms**] [[Paper]](https://arxiv.org/pdf/1705.08086.pdf)  *(NIPS 2017)*
+
+:sparkle: **Code:**
+
+*   [Torch-based](https://github.com/Yijunmaverick/UniversalStyleTransfer)
+*   [TensorFlow-based](https://github.com/eridgd/WCT-TF)
+*   [PyTorch-based](https://github.com/sunshineatnoon/PytorchWCT)
 
 ## Slight Modifications of Current Methods
 
