@@ -68,6 +68,13 @@ If you find this repository useful for your research, please cite
 
 *   [Theano-based](https://github.com/guillaumebrg/texture_generation)
 
+:white_check_mark: [**Laplacian-Steered Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1707.01253.pdf)  *(ACM MM 2017)*
+
+:sparkle: **Code:**
+
+*   [Torch-based & TensorFlow-based](https://github.com/askerlee/lapstyle)
+
+
 ###  1.2. Non-parametric "Slow" Neural Methods with MRFs
 
 :white_check_mark: [**Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis**] [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Combining_Markov_Random_CVPR_2016_paper.pdf)  *(CVPR 2016)*
@@ -293,11 +300,5 @@ If you find this repository useful for your research, please cite
 :white_check_mark: [**Exploring the Structure of a Real-time, Arbitrary Neural Artistic Stylization Network**] [[Paper]](https://arxiv.org/pdf/1705.06830.pdf)  *(BMVC 2017)*
 
 
-
-:white_check_mark: [**Laplacian-Steered Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1707.01253.pdf)  *(ACM MM 2017)*
-
-:sparkle: **Code:**
-
-*   [Torch-based & TensorFlow-based](https://github.com/askerlee/lapstyle)
 
 
