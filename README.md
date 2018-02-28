@@ -172,6 +172,8 @@ If you find this repository useful for your research, please cite
 *   [TensorFlow-based](https://github.com/eridgd/WCT-TF)
 *   [PyTorch-based](https://github.com/sunshineatnoon/PytorchWCT)
 
+:white_check_mark: [**Exploring the Structure of a Real-time, Arbitrary Neural Artistic Stylization Network**] [[Paper]](https://arxiv.org/pdf/1705.06830.pdf)  *(BMVC 2017)*
+
 ## Slight Modifications of Current Methods
 
 ###  1. Modifications of "Slow" Neural Methods
@@ -293,11 +295,8 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: **Fashion Style Generator** [[Paper]](https://www.ijcai.org/proceedings/2017/0520.pdf)  *(IJCAI 2017)*
 
-## Unclassified (To Be Updated Soon)
 
 
-
-:white_check_mark: [**Exploring the Structure of a Real-time, Arbitrary Neural Artistic Stylization Network**] [[Paper]](https://arxiv.org/pdf/1705.06830.pdf)  *(BMVC 2017)*
 
 
 
