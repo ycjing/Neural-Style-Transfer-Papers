@@ -174,7 +174,11 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Exploring the Structure of a Real-time, Arbitrary Neural Artistic Stylization Network**] [[Paper]](https://arxiv.org/pdf/1705.06830.pdf)  *(BMVC 2017)*
 
-## Slight Modifications of Current Methods
+:sparkle: **Code:**
+
+*   [TensorFlow-based](https://github.com/tensorflow/magenta/tree/master/magenta/models/arbitrary_image_stylization)
+
+## Modifications of Current Methods
 
 ###  1. Modifications of "Slow" Neural Methods
 
@@ -205,6 +209,7 @@ If you find this repository useful for your research, please cite
 *   [Torch-based](https://github.com/xiumingzhang/depth-preserving-neural-style-transfer)
 
 :white_check_mark: [**Depth-Aware Neural Style Transfer**]  *(NPAR 2017)*
+
 
 ## Extensions
 
