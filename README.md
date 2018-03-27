@@ -3,7 +3,7 @@ Selected papers, corresponding codes and pre-trained models in our review paper 
 
 *(This Paper is under a major revision and the organization below may not be consistent with the original paper. We will release the newest version of the paper ASAP. Any comment is welcomed! Thank you very much!)*
 
-*If I missed your paper in this review, please email me. I will appreciate your help. Thanks!*
+*If I missed your paper in this review, please email me. I will appreciate your help and I am more than happy to add it in our paper. Thanks!*
 
 ## Citation 
 If you find this repository useful for your research, please cite
