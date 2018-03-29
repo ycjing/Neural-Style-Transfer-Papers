@@ -252,6 +252,7 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Stereoscopic Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1802.10591.pdf)  *(CVPR 2018)* 
 
+:white_check_mark: [**Neural Font Style Transfer**] [[Paper]](http://ieeexplore.ieee.org/document/8270274/） *(ICDAR 2017)* 
 
 ## Application
 
