@@ -178,13 +178,13 @@ If you find this repository useful for your research, please cite
 
 *   [TensorFlow-based](https://github.com/tensorflow/magenta/tree/master/magenta/models/arbitrary_image_stylization)
 
-## Modifications of Current Methods
+## Improvements and Extensions
 
-###  1. Modifications of "Slow" Neural Methods
+<!--###  1. Modifications of "Slow" Neural Methods-->
 
-:white_check_mark: [**Exploring the Neural Algorithm of Artistic Style**] [[Paper]](https://arxiv.org/pdf/1602.07188.pdf) 
+<!--:white_check_mark: [**Exploring the Neural Algorithm of Artistic Style**] [[Paper]](https://arxiv.org/pdf/1602.07188.pdf) 
 
-:white_check_mark: [**Improving the Neural Algorithm of Artistic Style**] [[Paper]](https://arxiv.org/pdf/1605.04603.pdf) 
+:white_check_mark: [**Improving the Neural Algorithm of Artistic Style**] [[Paper]](https://arxiv.org/pdf/1605.04603.pdf) -->
 
 :white_check_mark: [**Preserving Color in Neural Artistic Style Transfer**] [[Paper]](https://arxiv.org/pdf/1606.05897.pdf) 
 
@@ -194,7 +194,7 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/leongatys/NeuralImageSynthesis)
 
-###  2. Modifications of "Fast" Neural Methods
+<!--###  2. Modifications of "Fast" Neural Methods-->
 
 :white_check_mark: [**Instance Normalization：The Missing Ingredient for Fast Stylization**] [[Paper]](https://arxiv.org/pdf/1607.08022.pdf) 
 
@@ -211,7 +211,7 @@ If you find this repository useful for your research, please cite
 :white_check_mark: [**Depth-Aware Neural Style Transfer**]  *(NPAR 2017)*
 
 
-## Extensions
+<!--## Extensions-->
 
 :white_check_mark: [**Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork**] [[Paper]](https://arxiv.org/pdf/1603.01768.pdf) 
 
@@ -247,12 +247,42 @@ If you find this repository useful for your research, please cite
 *   [Torch-based](https://github.com/luanfujun/deep-photo-styletransfer)
 *   [TensorFlow-based](https://github.com/LouieYang/deep-photo-styletransfer-tf)
 
+:white_check_mark: [**A Closed-form Solution to Photorealistic Image Stylization**] [[Paper]](https://arxiv.org/pdf/1802.06474.pdf)
+
+:sparkle: **Code:**
+
+*   [PyTorch-based](https://github.com/NVIDIA/FastPhotoStyle)
+
 
 :white_check_mark: [**Decoder Network Over Lightweight Reconstructed Feature for Fast Semantic Style Transfer**] [[Paper]](http://feng-xu.com/papers/iccv2017_style.pdf)  *(ICCV 2017)* 
 
 :white_check_mark: [**Stereoscopic Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1802.10591.pdf)  *(CVPR 2018)* 
 
 :white_check_mark: [**Neural Font Style Transfer**] [[Paper]](http://ieeexplore.ieee.org/document/8270274/） *(ICDAR 2017)* 
+
+:white_check_mark: **Character Style Transfer**
+
+*   [**Awesome Typography: Statistics-based Text Effects Transfer**][[Paper]](https://arxiv.org/abs/1611.09026)  *(CVPR 2017)*
+
+:sparkle: **Code:**
+
+*   [Matlab-based](https://github.com/williamyang1991/Text-Effects-Transfer)
+
+*   [**Rewrite: Neural Style Transfer For Chinese Fonts**][[Project]](https://github.com/kaonashi-tyc/Rewrite)
+
+:white_check_mark: **Visual Attribute Transfer through Deep Image Analogy**[[Paper]](https://arxiv.org/pdf/1705.01088.pdf)  *(SIGGRAPH 2017)*
+
+:sparkle: **Code:**
+
+*   [Caffe-based](https://github.com/msracver/Deep-Image-Analogy)
+
+:white_check_mark: **Fashion Style Generator** [[Paper]](https://www.ijcai.org/proceedings/2017/0520.pdf)  *(IJCAI 2017)*
+
+:white_check_mark: **Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields**[[Paper]](https://arxiv.org/pdf/1802.07101.pdf) 
+
+:sparkle: **Code:**
+
+*   [TensorFlow-based](https://github.com/LouieYang/stroke-controllable-fast-style-transfer)
 
 ## Application
 
@@ -282,30 +312,3 @@ If you find this repository useful for your research, please cite
 :white_check_mark: [**Issue of Layer Chosen Strategy**][http://yongchengjing.com/pdf/Issue_layerChosenStrategy_neuralStyleTransfer.pdf]
 
 :white_check_mark: [**Picking an optimizer for Style Transfer**][https://blog.slavv.com/picking-an-optimizer-for-style-transfer-86e7b8cba84b]
-
-## Exciting New Directions
-
-:white_check_mark: **Character Style Transfer**
-
-*   [**Awesome Typography: Statistics-based Text Effects Transfer**][[Paper]](https://arxiv.org/abs/1611.09026)  *(CVPR 2017)*
-
-:sparkle: **Code:**
-
-*   [Matlab-based](https://github.com/williamyang1991/Text-Effects-Transfer)
-
-*   [**Rewrite: Neural Style Transfer For Chinese Fonts**][[Project]](https://github.com/kaonashi-tyc/Rewrite)
-
-:white_check_mark: **Visual Attribute Transfer through Deep Image Analogy**[[Paper]](https://arxiv.org/pdf/1705.01088.pdf)  *(SIGGRAPH 2017)*
-
-:sparkle: **Code:**
-
-*   [Caffe-based](https://github.com/msracver/Deep-Image-Analogy)
-
-:white_check_mark: **Fashion Style Generator** [[Paper]](https://www.ijcai.org/proceedings/2017/0520.pdf)  *(IJCAI 2017)*
-
-
-
-
-
-
-
