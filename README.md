@@ -213,7 +213,7 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/xiumingzhang/depth-preserving-neural-style-transfer)
 
-:white_check_mark: [**Depth-Aware Neural Style Transfer**]  *(NPAR 2017)*
+:white_check_mark: [**Depth-Aware Neural Style Transfer**] [[Paper]](https://dl.acm.org/citation.cfm?id=3092924)  *(NPAR 2017)*
 
 
 <!--## Extensions-->
@@ -263,7 +263,7 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Stereoscopic Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1802.10591.pdf)  *(CVPR 2018)* 
 
-:white_check_mark: [**Neural Font Style Transfer**] [[Paper]](http://ieeexplore.ieee.org/document/8270274/） *(ICDAR 2017)* 
+:white_check_mark: [**Neural Font Style Transfer**] [[Paper]](http://ieeexplore.ieee.org/document/8270274/)  *(ICDAR 2017)* 
 
 :white_check_mark: **Character Style Transfer**
 
