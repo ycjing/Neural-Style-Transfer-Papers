@@ -50,14 +50,6 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Image Style Transfer Using Convolutional Neural Networks**] [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) *(CVPR 2016)*
 
-:white_check_mark: [**Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses**] [[Paper]](https://arxiv.org/pdf/1701.08893.pdf)
-
-:white_check_mark: [**Demystifying Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1701.01036.pdf)  *(Theoretical Explanation)* *(IJCAI 2017)*
-
-:sparkle: **Code:**
-
-*   [MXNet-based](https://github.com/lyttonhao/Neural-Style-MMD)
-
 :white_check_mark: [**Incorporating Long-range Consistency in CNN-based Texture Generation**] [[Paper]](https://arxiv.org/pdf/1606.01286.pdf)  *(ICLR 2017)* 
 
 :sparkle: **Code:**
@@ -69,6 +61,14 @@ If you find this repository useful for your research, please cite
 :sparkle: **Code:**
 
 *   [Torch-based & TensorFlow-based](https://github.com/askerlee/lapstyle)
+
+:white_check_mark: [**Demystifying Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1701.01036.pdf)  *(Theoretical Explanation)* *(IJCAI 2017)*
+
+:sparkle: **Code:**
+
+*   [MXNet-based](https://github.com/lyttonhao/Neural-Style-MMD)
+
+:white_check_mark: [**Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses**] [[Paper]](https://arxiv.org/pdf/1701.08893.pdf)
 
 
 ###  1.2. Non-parametric "Slow" Neural Methods with MRFs
@@ -107,11 +107,6 @@ If you find this repository useful for your research, please cite
 *   [Torch-based](https://github.com/DmitryUlyanov/texture_nets)
 *   [TensorFlow-based](https://github.com/tgyg-jegli/tf_texture_net)
 
-:white_check_mark: [**Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis**] [[Paper]](https://arxiv.org/pdf/1701.02096.pdf)  *(CVPR 2017)*
-
-:sparkle: **Code:**
-
-*   [Torch-based](https://github.com/DmitryUlyanov/texture_nets)
 
 :white_check_mark: [**Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks**] [[Paper]](https://arxiv.org/pdf/1604.04382.pdf)  *(ECCV 2016)*
 
@@ -141,13 +136,15 @@ If you find this repository useful for your research, please cite
 *   [PyTorch-based](https://github.com/zhanghang1989/PyTorch-Style-Transfer)
 *   [Torch-based](https://github.com/zhanghang1989/MSG-Net)
 
-:white_check_mark: [**StyleBank: An Explicit Representation for Neural Image Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.09210.pdf)  *(CVPR 2017)*
-
 :white_check_mark: [**Diversified Texture Synthesis With Feed-Forward Networks**] [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Diversified_Texture_Synthesis_CVPR_2017_paper.pdf)  *(CVPR 2017)* 
 
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/Yijunmaverick/MultiTextureSynthesis)
+
+:white_check_mark: [**StyleBank: An Explicit Representation for Neural Image Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.09210.pdf)  *(CVPR 2017)*
+
+
 
 ### 2.3. Arbitrary-Style-Per-Model "Fast" Neural Methods
 
@@ -156,6 +153,13 @@ If you find this repository useful for your research, please cite
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/rtqichen/style-swap)
+
+:white_check_mark: [**Exploring the Structure of a Real-time, Arbitrary Neural Artistic Stylization Network**] [[Paper]](https://arxiv.org/pdf/1705.06830.pdf)  *(BMVC 2017)*
+
+:sparkle: **Code:**
+
+*   [TensorFlow-based](https://github.com/tensorflow/magenta/tree/master/magenta/models/arbitrary_image_stylization)
+
 
 :white_check_mark: [**Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization**] [[Paper]](https://arxiv.org/pdf/1703.06868.pdf)  *(ICCV 2017)*
 
@@ -173,19 +177,8 @@ If you find this repository useful for your research, please cite
 *   [TensorFlow-based](https://github.com/eridgd/WCT-TF)
 *   [PyTorch-based](https://github.com/sunshineatnoon/PytorchWCT)
 
-:white_check_mark: [**Exploring the Structure of a Real-time, Arbitrary Neural Artistic Stylization Network**] [[Paper]](https://arxiv.org/pdf/1705.06830.pdf)  *(BMVC 2017)*
-
-:sparkle: **Code:**
-
-*   [TensorFlow-based](https://github.com/tensorflow/magenta/tree/master/magenta/models/arbitrary_image_stylization)
 
 ## Improvements and Extensions
-
-<!--###  1. Modifications of "Slow" Neural Methods-->
-
-<!--:white_check_mark: [**Exploring the Neural Algorithm of Artistic Style**] [[Paper]](https://arxiv.org/pdf/1602.07188.pdf) 
-
-:white_check_mark: [**Improving the Neural Algorithm of Artistic Style**] [[Paper]](https://arxiv.org/pdf/1605.04603.pdf) -->
 
 :white_check_mark: [**Preserving Color in Neural Artistic Style Transfer**] [[Paper]](https://arxiv.org/pdf/1606.05897.pdf) 
 
@@ -200,13 +193,31 @@ If you find this repository useful for your research, please cite
 :white_check_mark: [**Towards Deep Style Transfer: A Content-Aware Perspective**] [[Paper]](http://www.bmva.org/bmvc/2016/papers/paper008/paper008.pdf)  *(BMVC 2016)*
 
 :white_check_mark: [**Neural Doodle_Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork**] [[Paper]](https://arxiv.org/pdf/1603.01768.pdf) 
-<!--###  2. Modifications of "Fast" Neural Methods-->
+
+:white_check_mark: [**Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork**] [[Paper]](https://arxiv.org/pdf/1603.01768.pdf) 
+
+:sparkle: **Code:**
+
+*   [Torch-based](https://github.com/alexjc/neural-doodle)
+
+:white_check_mark: [**Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis**] [[Paper]](https://arxiv.org/pdf/1701.02096.pdf)  *(CVPR 2017)*
+
+:sparkle: **Code:**
+
+*   [Torch-based](https://github.com/DmitryUlyanov/texture_nets)
 
 :white_check_mark: [**Instance Normalization：The Missing Ingredient for Fast Stylization**] [[Paper]](https://arxiv.org/pdf/1607.08022.pdf) 
 
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/DmitryUlyanov/texture_nets)
+
+:white_check_mark: **Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields**[[Paper]](https://arxiv.org/pdf/1802.07101.pdf) 
+
+:sparkle: **Code:**
+
+*   [TensorFlow-based](https://github.com/LouieYang/stroke-controllable-fast-style-transfer)
+
 
 :white_check_mark: [**Depth-Preserving Style Transfer**] [[Paper]](https://github.com/xiumingzhang/depth-preserving-neural-style-transfer/blob/master/report/egpaper_final.pdf) 
 
@@ -216,14 +227,9 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Depth-Aware Neural Style Transfer**] [[Paper]](https://dl.acm.org/citation.cfm?id=3092924)  *(NPAR 2017)*
 
+:white_check_mark: [**Neural Style Transfer: A Paradigm Shift for Image-based Artistic Rendering?**] [[Paper]]()  *(NPAR 2017)*
 
-<!--## Extensions-->
-
-:white_check_mark: [**Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork**] [[Paper]](https://arxiv.org/pdf/1603.01768.pdf) 
-
-:sparkle: **Code:**
-
-*   [Torch-based](https://github.com/alexjc/neural-doodle)
+:white_check_mark: [**Pictory: Combining Neural Style Transfer and Image Filtering**] [[Paper]]()  *(ACM SIGGRAPH 2017 Appy Hour)*
 
 :white_check_mark: [**Painting Style Transfer for Head Portraits Using Convolutional Neural Networks**] [[Paper]](http://dl.acm.org/citation.cfm?id=2925968)  *(SIGGRAPH 2016)*
 
@@ -241,7 +247,7 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Characterizing and Improving Stability in Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1705.02092.pdf))  *(ICCV 2017)*
 
-:white_check_mark: [**Coherent Online Video Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.09211.pdf)  *(ICCV 2017)*  *(First end-to-end video style transfer?)*
+:white_check_mark: [**Coherent Online Video Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.09211.pdf)  *(ICCV 2017)*  
 
 :white_check_mark: [**Real-Time Neural Style Transfer for Videos**] [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf)  *(CVPR 2017)* 
 
@@ -264,7 +270,7 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Stereoscopic Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1802.10591.pdf)  *(CVPR 2018)* 
 
-:white_check_mark: [**Neural Font Style Transfer**] [[Paper]](http://ieeexplore.ieee.org/document/8270274/)  *(ICDAR 2017)* 
+
 
 :white_check_mark: **Character Style Transfer**
 
@@ -273,6 +279,8 @@ If you find this repository useful for your research, please cite
 :sparkle: **Code:**
 
 *   [Matlab-based](https://github.com/williamyang1991/Text-Effects-Transfer)
+
+*   [**Neural Font Style Transfer**][[Paper]](http://ieeexplore.ieee.org/document/8270274/)  *(ICDAR 2017)* 
 
 *   [**Rewrite: Neural Style Transfer For Chinese Fonts**][[Project]](https://github.com/kaonashi-tyc/Rewrite)
 
@@ -284,11 +292,6 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: **Fashion Style Generator** [[Paper]](https://www.ijcai.org/proceedings/2017/0520.pdf)  *(IJCAI 2017)*
 
-:white_check_mark: **Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields**[[Paper]](https://arxiv.org/pdf/1802.07101.pdf) 
-
-:sparkle: **Code:**
-
-*   [TensorFlow-based](https://github.com/LouieYang/stroke-controllable-fast-style-transfer)
 
 ## Application
 
@@ -302,12 +305,19 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Deep Forger**](https://deepforger.com/) 
 
+:white_check_mark: [**NeuralStyler**](http://neuralstyler.com/) 
+
+
 
 ## Application Papers
 
 :white_check_mark: [**Bringing Impressionism to Life with Neural Style Transfer in Come Swim**] [[Paper]](https://arxiv.org/pdf/1701.04928.pdf) 
 
 :white_check_mark: [**Imaging Novecento. A Mobile App for Automatic Recognition of Artworks and Transfer of Artistic Styles**] [[Paper]](https://www.micc.unifi.it/wp-content/uploads/2017/01/imaging900.pdf) 
+
+:white_check_mark: [**ProsumerFX: Mobile Design of Image Stylization Components**] [[Paper]]()
+
+:white_check_mark: [**Pictory - Neural Style Transfer and Editing with coreML**] [[Paper]]()
 
 ## Blogs 
 
