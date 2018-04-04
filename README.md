@@ -58,10 +58,6 @@ If you find this repository useful for your research, please cite
 
 *   [MXNet-based](https://github.com/lyttonhao/Neural-Style-MMD)
 
-:white_check_mark: [**Content-Aware Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1601.04568.pdf) 
-
-:white_check_mark: [**Towards Deep Style Transfer: A Content-Aware Perspective**] [[Paper]](http://www.bmva.org/bmvc/2016/papers/paper008/paper008.pdf)  *(BMVC 2016)*
-
 :white_check_mark: [**Incorporating Long-range Consistency in CNN-based Texture Generation**] [[Paper]](https://arxiv.org/pdf/1606.01286.pdf)  *(ICLR 2017)* 
 
 :sparkle: **Code:**
@@ -83,7 +79,7 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/chuanli11/CNNMRF)
 
-:white_check_mark: [**Neural Doodle_Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork**] [[Paper]](https://arxiv.org/pdf/1603.01768.pdf) 
+
 
 ###  2. "Fast" Neural Methods Based On Model Optimization
 
@@ -199,6 +195,11 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/leongatys/NeuralImageSynthesis)
 
+:white_check_mark: [**Content-Aware Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1601.04568.pdf) 
+
+:white_check_mark: [**Towards Deep Style Transfer: A Content-Aware Perspective**] [[Paper]](http://www.bmva.org/bmvc/2016/papers/paper008/paper008.pdf)  *(BMVC 2016)*
+
+:white_check_mark: [**Neural Doodle_Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork**] [[Paper]](https://arxiv.org/pdf/1603.01768.pdf) 
 <!--###  2. Modifications of "Fast" Neural Methods-->
 
 :white_check_mark: [**Instance Normalization：The Missing Ingredient for Fast Stylization**] [[Paper]](https://arxiv.org/pdf/1607.08022.pdf) 
