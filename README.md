@@ -1,9 +1,16 @@
 # Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="30" width="30" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
 Selected papers, corresponding codes and pre-trained models in our review paper "**[Neural Style Transfer: A Review](https://arxiv.org/abs/1705.04058)**" 
 
-*(This Paper is under a major revision and the organization below may not be consistent with the original paper. We will release the newest version of the paper ASAP. Any comment is welcomed! Thank you very much!)*
+*If I missed your paper in this review, please email me. I am more than happy to add it in our paper. Thanks!*
 
-*If I missed your paper in this review, please email me. I will appreciate your help and I am more than happy to add it in our paper. Thanks!*
+
+## *News!*
+
+- [Apr, 2018] We have released a new version of the paper with significant changes at: https://arxiv.org/pdf/1705.04058.pdf (scheduled to be announced on arXiv next Monday).</br> PDF is available at: https://www.researchgate.net/publication/316875425_Neural_Style_Transfer_A_Review </br> Appreciate the feedback!
+
+- [Feb, 2018] Update the *Images* *(Images_neuralStyleTransferReview_v2)* in the *Materials*. Add the results of Li et al.'s NIPS 2017 paper.
+
+- [Jan, 2018] *Pre-trained models* and all the *content images*, the *style images*, and the *stylized results* in the paper have been released.
 
 
 <p align='center'>
@@ -22,11 +29,6 @@ If you find this repository useful for your research, please cite
   year={2017}
 }
 ```
-## *News!*
-
-- [Feb, 2018] Update the *Images* *(Images_neuralStyleTransferReview_v2)* in the *Materials*. Add the results of Li et al.'s NIPS 2017 paper.
-
-- [Jan, 2018] *Pre-trained models* and all the *content images*, the *style images*, and the *stylized results* in the paper have been released.
 
 ## Materials corresponding to Our Paper
 
@@ -235,9 +237,7 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Depth-Aware Neural Style Transfer**] [[Paper]](https://dl.acm.org/citation.cfm?id=3092924)  *(NPAR 2017)*
 
-:white_check_mark: [**Neural Style Transfer: A Paradigm Shift for Image-based Artistic Rendering?**] [[Paper]]()  *(NPAR 2017)*
-
-:white_check_mark: [**Pictory: Combining Neural Style Transfer and Image Filtering**] [[Paper]]()  *(ACM SIGGRAPH 2017 Appy Hour)*
+:white_check_mark: [**Neural Style Transfer: A Paradigm Shift for Image-based Artistic Rendering?**] [[Paper]](https://hal.inria.fr/hal-01527495v3/document)  *(NPAR 2017)*
 
 :white_check_mark: [**Painting Style Transfer for Head Portraits Using Convolutional Neural Networks**] [[Paper]](http://dl.acm.org/citation.cfm?id=2925968)  *(SIGGRAPH 2016)*
 
@@ -265,74 +265,4 @@ If you find this repository useful for your research, please cite
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/luanfujun/deep-photo-styletransfer)
-*   [TensorFlow-based](https://github.com/LouieYang/deep-photo-styletransfer-tf)
-
-:white_check_mark: [**A Closed-form Solution to Photorealistic Image Stylization**] [[Paper]](https://arxiv.org/pdf/1802.06474.pdf)
-
-:sparkle: **Code:**
-
-*   [PyTorch-based](https://github.com/NVIDIA/FastPhotoStyle)
-
-
-:white_check_mark: [**Decoder Network Over Lightweight Reconstructed Feature for Fast Semantic Style Transfer**] [[Paper]](http://feng-xu.com/papers/iccv2017_style.pdf)  *(ICCV 2017)* 
-
-:white_check_mark: [**Stereoscopic Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1802.10591.pdf)  *(CVPR 2018)* 
-
-
-
-:white_check_mark: **Character Style Transfer**
-
-*   [**Awesome Typography: Statistics-based Text Effects Transfer**][[Paper]](https://arxiv.org/abs/1611.09026)  *(CVPR 2017)*
-
-:sparkle: **Code:**
-
-*   [Matlab-based](https://github.com/williamyang1991/Text-Effects-Transfer)
-
-*   [**Neural Font Style Transfer**][[Paper]](http://ieeexplore.ieee.org/document/8270274/)  *(ICDAR 2017)* 
-
-*   [**Rewrite: Neural Style Transfer For Chinese Fonts**][[Project]](https://github.com/kaonashi-tyc/Rewrite)
-
-:white_check_mark: **Visual Attribute Transfer through Deep Image Analogy**[[Paper]](https://arxiv.org/pdf/1705.01088.pdf)  *(SIGGRAPH 2017)*
-
-:sparkle: **Code:**
-
-*   [Caffe-based](https://github.com/msracver/Deep-Image-Analogy)
-
-:white_check_mark: **Fashion Style Generator** [[Paper]](https://www.ijcai.org/proceedings/2017/0520.pdf)  *(IJCAI 2017)*
-
-
-## Application
-
-:white_check_mark: [**Prisma**](https://prisma-ai.com/) 
-
-:white_check_mark: [**Ostagram**](https://ostagram.ru/) 
-
-:sparkle: **Code:**
-
-*   [Website code](https://github.com/SergeyMorugin/ostagram)
-
-:white_check_mark: [**Deep Forger**](https://deepforger.com/) 
-
-:white_check_mark: [**NeuralStyler**](http://neuralstyler.com/) 
-
-
-
-## Application Papers
-
-:white_check_mark: [**Bringing Impressionism to Life with Neural Style Transfer in Come Swim**] [[Paper]](https://arxiv.org/pdf/1701.04928.pdf) 
-
-:white_check_mark: [**Imaging Novecento. A Mobile App for Automatic Recognition of Artworks and Transfer of Artistic Styles**] [[Paper]](https://www.micc.unifi.it/wp-content/uploads/2017/01/imaging900.pdf) 
-
-:white_check_mark: [**ProsumerFX: Mobile Design of Image Stylization Components**] [[Paper]]()
-
-:white_check_mark: [**Pictory - Neural Style Transfer and Editing with coreML**] [[Paper]]()
-
-## Blogs 
-
-:white_check_mark: [**Caffe2Go**][https://code.facebook.com/posts/196146247499076/delivering-real-time-ai-in-the-palm-of-your-hand/]
-
-:white_check_mark: [**Supercharging Style Transfer**][https://research.googleblog.com/2016/10/supercharging-style-transfer.html]
-
-:white_check_mark: [**Issue of Layer Chosen Strategy**][http://yongchengjing.com/pdf/Issue_layerChosenStrategy_neuralStyleTransfer.pdf]
-
-:white_check_mark: [**Picking an optimizer for Style Transfer**][https://blog.slavv.com/picking-an-optimizer-for-style-transfer-86e7b8cba84b]
+*   [TensorFlow-based](https://github.com/LouieYang/dee
