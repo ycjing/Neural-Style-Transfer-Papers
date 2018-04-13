@@ -114,11 +114,7 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/chuanli11/MGANs)
 
-:white_check_mark: [**Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer**] [[Paper]](https://arxiv.org/pdf/1612.01895.pdf)  *(CVPR 2017)* 
 
-:sparkle: **Code:**
-
-*   [TensorFlow-based](https://github.com/fullfanta/multimodal_transfer)
 
 
 ### 2.2. Multiple-Style-Per-Model "Fast" Neural Methods
@@ -211,6 +207,12 @@ If you find this repository useful for your research, please cite
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/DmitryUlyanov/texture_nets)
+
+:white_check_mark: [**Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer**] [[Paper]](https://arxiv.org/pdf/1612.01895.pdf)  *(CVPR 2017)* 
+
+:sparkle: **Code:**
+
+*   [TensorFlow-based](https://github.com/fullfanta/multimodal_transfer)
 
 :white_check_mark: **Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields**[[Paper]](https://arxiv.org/pdf/1802.07101.pdf) 
 
