@@ -32,7 +32,7 @@ If you find this repository useful for your research, please cite
 
 ## A Taxonomy of Current Methods
 
-### 1. "Slow" Neural Methods Based On Image Optimization
+### 1. "Slow" Neural Methods Based On Online Image Optimization
 
 ###  1.1. Parametric "Slow" Neural Methods with Summary Statistics
 
@@ -81,7 +81,7 @@ If you find this repository useful for your research, please cite
 
 
 
-###  2. "Fast" Neural Methods Based On Model Optimization
+###  2. "Fast" Neural Methods Based On Offline Model Optimization
 
 ### 2.1. Per-Style-Per-Model "Fast" Neural Methods
 
