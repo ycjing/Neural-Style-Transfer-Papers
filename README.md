@@ -5,6 +5,12 @@ Selected papers, corresponding codes and pre-trained models in our review paper 
 
 *If I missed your paper in this review, please email me. I will appreciate your help and I am more than happy to add it in our paper. Thanks!*
 
+
+<p align='center'>
+    </br>
+    <img src='framework.png' width='1000'>
+</p>
+
 ## Citation 
 If you find this repository useful for your research, please cite
 
