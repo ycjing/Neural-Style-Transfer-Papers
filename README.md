@@ -6,7 +6,7 @@ Selected papers, corresponding codes and pre-trained models in our review paper 
 
 ## *News!*
 
-- [Apr, 2018] We have released a new version of the paper with significant changes at: https://arxiv.org/pdf/1705.04058.pdf (scheduled to be announced on arXiv next Monday).</br> PDF is available at: https://www.researchgate.net/publication/316875425_Neural_Style_Transfer_A_Review </br> Appreciate the feedback!
+- [Apr, 2018] We have released a new version of the paper with significant changes at: https://arxiv.org/pdf/1705.04058.pdf (scheduled to be announced on arXiv next Monday).</br> Appreciate the feedback!
 
 - [Feb, 2018] Update the *Images* *(Images_neuralStyleTransferReview_v2)* in the *Materials*. Add the results of Li et al.'s NIPS 2017 paper.
 
