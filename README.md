@@ -302,6 +302,11 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: **Fashion Style Generator** [[Paper]](https://www.ijcai.org/proceedings/2017/0520.pdf)  *(IJCAI 2017)*
 
+:white_check_mark: **Deep Painterly Harmonization** [[Paper]](https://arxiv.org/abs/1804.03189)
+
+:sparkle: **Code:**
+
+*   [Torch-based](https://github.com/luanfujun/deep-painterly-harmonization)
 
 ## Application
 
