@@ -1,7 +1,7 @@
 # Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="30" width="30" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
 Selected papers, corresponding codes and pre-trained models in our review paper "**[Neural Style Transfer: A Review](https://arxiv.org/abs/1705.04058)**" 
 
-*If I missed your paper in this review, please email me. I am more than happy to add it in our paper. Thanks!*
+*If I missed your paper in this review, please email me or just pull a request here. I am more than happy to add it. Thanks!*
 
 
 ## *News!*
@@ -203,6 +203,12 @@ If you find this repository useful for your research, please cite
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/alexjc/neural-doodle)
+
+:white_check_mark: [**The Contextual Loss for Image Transformation with Non-Aligned Data**] [[Paper]](https://arxiv.org/pdf/1803.02077)
+
+:sparkle: **Code:**
+
+*   [TensorFlow-based](https://github.com/roimehrez/contextualLoss)
 
 :white_check_mark: [**Improved Texture Networks: Maximizing Quality and Diversity in Feed-forward Stylization and Texture Synthesis**] [[Paper]](https://arxiv.org/pdf/1701.02096.pdf)  *(CVPR 2017)*
 
