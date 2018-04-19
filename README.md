@@ -340,7 +340,7 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Pictory - Neural Style Transfer and Editing with coreML**] [[Paper]]()
 
-:white_check_mark: [**Tiny Transform Net for Mobile Image Stylization**] [[Paper]]()
+:white_check_mark: [**Tiny Transform Net for Mobile Image Stylization**] [[Paper]]()  *(ICMR 2017)*
 
 ## Blogs 
 
