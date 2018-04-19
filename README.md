@@ -340,6 +340,8 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Pictory - Neural Style Transfer and Editing with coreML**] [[Paper]]()
 
+:white_check_mark: [**Tiny Transform Net for Mobile Image Stylization**] [[Paper]]()
+
 ## Blogs 
 
 :white_check_mark: [**Caffe2Go**][https://code.facebook.com/posts/196146247499076/delivering-real-time-ai-in-the-palm-of-your-hand/]
