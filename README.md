@@ -314,6 +314,9 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/luanfujun/deep-painterly-harmonization)
 
+:white_check_mark: **Fast Face-Swap Using Convolutional Neural Networks** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.pdf)  *(ICCV 2017)*
+
+
 ## Application
 
 :white_check_mark: [**Prisma**](https://prisma-ai.com/) 
