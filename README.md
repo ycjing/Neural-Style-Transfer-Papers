@@ -288,17 +288,19 @@ If you find this repository useful for your research, please cite
 
 
 
-:white_check_mark: **Character Style Transfer**
+<!--:white_check_mark: **Character Style Transfer**-->
 
-*   [**Awesome Typography: Statistics-based Text Effects Transfer**][[Paper]](https://arxiv.org/abs/1611.09026)  *(CVPR 2017)*
+:white_check_mark:   [**Awesome Typography: Statistics-based Text Effects Transfer**][[Paper]](https://arxiv.org/abs/1611.09026)  *(CVPR 2017)*
 
 :sparkle: **Code:**
 
 *   [Matlab-based](https://github.com/williamyang1991/Text-Effects-Transfer)
 
-*   [**Neural Font Style Transfer**][[Paper]](http://ieeexplore.ieee.org/document/8270274/)  *(ICDAR 2017)* 
+:white_check_mark:   [**Neural Font Style Transfer**][[Paper]](http://ieeexplore.ieee.org/document/8270274/)  *(ICDAR 2017)* 
 
-*   [**Rewrite: Neural Style Transfer For Chinese Fonts**][[Project]](https://github.com/kaonashi-tyc/Rewrite)
+:white_check_mark:   [**Rewrite: Neural Style Transfer For Chinese Fonts**][[Project]](https://github.com/kaonashi-tyc/Rewrite)
+
+:white_check_mark:   [**Separating Style and Content for Generalized Style Transfer**][[Paper]](https://arxiv.org/pdf/1711.06454.pdf)  *(CVPR 2018)*  
 
 :white_check_mark: **Visual Attribute Transfer through Deep Image Analogy**[[Paper]](https://arxiv.org/pdf/1705.01088.pdf)  *(SIGGRAPH 2017)*
 
