@@ -333,7 +333,11 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**NeuralStyler**](http://neuralstyler.com/) 
 
+:white_check_mark: [**Style2Paints**](http://paintstransfer.com/) 
 
+:sparkle: **Code:**
+
+*   [Website code](https://github.com/lllyasviel/style2paints)
 
 ## Application Papers
 
