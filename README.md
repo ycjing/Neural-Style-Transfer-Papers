@@ -181,6 +181,11 @@ If you find this repository useful for your research, please cite
 *   [TensorFlow-based](https://github.com/eridgd/WCT-TF)
 *   [PyTorch-based](https://github.com/sunshineatnoon/PytorchWCT)
 
+:white_check_mark: [**Meta Networks for Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1709.04111.pdf)
+
+:sparkle: **Code:**
+
+*   [Caffe-based](https://github.com/FalongShen/styletransfer)
 
 ## Improvements and Extensions
 
@@ -228,7 +233,7 @@ If you find this repository useful for your research, please cite
 
 *   [TensorFlow-based](https://github.com/fullfanta/multimodal_transfer)
 
-:white_check_mark: **Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields**[[Paper]](https://arxiv.org/pdf/1802.07101.pdf) 
+:white_check_mark: [**Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields**] [[Paper]](https://arxiv.org/pdf/1802.07101.pdf) 
 
 :sparkle: **Code:**
 
@@ -243,9 +248,9 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Depth-Aware Neural Style Transfer**] [[Paper]](https://dl.acm.org/citation.cfm?id=3092924)  *(NPAR 2017)*
 
-:white_check_mark: [**Neural Style Transfer: A Paradigm Shift for Image-based Artistic Rendering?**] [[Paper]]()  *(NPAR 2017)*
+:white_check_mark: [**Neural Style Transfer: A Paradigm Shift for Image-based Artistic Rendering?**] [[Paper]](https://tobias.isenberg.cc/personal/papers/Semmo_2017_NST.pdf)  *(NPAR 2017)*
 
-:white_check_mark: [**Pictory: Combining Neural Style Transfer and Image Filtering**] [[Paper]]()  *(ACM SIGGRAPH 2017 Appy Hour)*
+:white_check_mark: [**Pictory: Combining Neural Style Transfer and Image Filtering**] [[Paper]](https://www.researchgate.net/publication/320035123_Demo_Pictory_-_Neural_Style_Transfer_and_Editing_with_CoreML)  *(ACM SIGGRAPH 2017 Appy Hour)*
 
 :white_check_mark: [**Painting Style Transfer for Head Portraits Using Convolutional Neural Networks**] [[Paper]](http://dl.acm.org/citation.cfm?id=2925968)  *(SIGGRAPH 2016)*
 
@@ -290,33 +295,33 @@ If you find this repository useful for your research, please cite
 
 <!--:white_check_mark: **Character Style Transfer**-->
 
-:white_check_mark:   [**Awesome Typography: Statistics-based Text Effects Transfer**][[Paper]](https://arxiv.org/abs/1611.09026)  *(CVPR 2017)*
+:white_check_mark:   [**Awesome Typography: Statistics-based Text Effects Transfer**] [[Paper]](https://arxiv.org/abs/1611.09026)  *(CVPR 2017)*
 
 :sparkle: **Code:**
 
 *   [Matlab-based](https://github.com/williamyang1991/Text-Effects-Transfer)
 
-:white_check_mark:   [**Neural Font Style Transfer**][[Paper]](http://ieeexplore.ieee.org/document/8270274/)  *(ICDAR 2017)* 
+:white_check_mark:   [**Neural Font Style Transfer**] [[Paper]](http://ieeexplore.ieee.org/document/8270274/)  *(ICDAR 2017)* 
 
-:white_check_mark:   [**Rewrite: Neural Style Transfer For Chinese Fonts**][[Project]](https://github.com/kaonashi-tyc/Rewrite)
+:white_check_mark:   [**Rewrite: Neural Style Transfer For Chinese Fonts**] [[Project]](https://github.com/kaonashi-tyc/Rewrite)
 
-:white_check_mark:   [**Separating Style and Content for Generalized Style Transfer**][[Paper]](https://arxiv.org/pdf/1711.06454.pdf)  *(CVPR 2018)*  
+:white_check_mark:   [**Separating Style and Content for Generalized Style Transfer**] [[Paper]](https://arxiv.org/pdf/1711.06454.pdf)  *(CVPR 2018)*  
 
-:white_check_mark: **Visual Attribute Transfer through Deep Image Analogy**[[Paper]](https://arxiv.org/pdf/1705.01088.pdf)  *(SIGGRAPH 2017)*
+:white_check_mark: [**Visual Attribute Transfer through Deep Image Analogy**] [[Paper]](https://arxiv.org/pdf/1705.01088.pdf)  *(SIGGRAPH 2017)*
 
 :sparkle: **Code:**
 
 *   [Caffe-based](https://github.com/msracver/Deep-Image-Analogy)
 
-:white_check_mark: **Fashion Style Generator** [[Paper]](https://www.ijcai.org/proceedings/2017/0520.pdf)  *(IJCAI 2017)*
+:white_check_mark: [**Fashion Style Generator**] [[Paper]](https://www.ijcai.org/proceedings/2017/0520.pdf)  *(IJCAI 2017)*
 
-:white_check_mark: **Deep Painterly Harmonization** [[Paper]](https://arxiv.org/abs/1804.03189)
+:white_check_mark: [**Deep Painterly Harmonization**] [[Paper]](https://arxiv.org/abs/1804.03189)
 
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/luanfujun/deep-painterly-harmonization)
 
-:white_check_mark: **Fast Face-Swap Using Convolutional Neural Networks** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.pdf)  *(ICCV 2017)*
+:white_check_mark: [**Fast Face-Swap Using Convolutional Neural Networks**] [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.pdf)  *(ICCV 2017)*
 
 
 ## Application
@@ -345,11 +350,11 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Imaging Novecento. A Mobile App for Automatic Recognition of Artworks and Transfer of Artistic Styles**] [[Paper]](https://www.micc.unifi.it/wp-content/uploads/2017/01/imaging900.pdf) 
 
-:white_check_mark: [**ProsumerFX: Mobile Design of Image Stylization Components**] [[Paper]]()
+:white_check_mark: [**ProsumerFX: Mobile Design of Image Stylization Components**] [[Paper]](https://www.researchgate.net/publication/319631844_ProsumerFX_Mobile_Design_of_Image_Stylization_Components)
 
-:white_check_mark: [**Pictory - Neural Style Transfer and Editing with coreML**] [[Paper]]()
+:white_check_mark: [**Pictory - Neural Style Transfer and Editing with coreML**] [[Paper]](https://www.researchgate.net/publication/320035123_Demo_Pictory_-_Neural_Style_Transfer_and_Editing_with_CoreML)
 
-:white_check_mark: [**Tiny Transform Net for Mobile Image Stylization**] [[Paper]]()  *(ICMR 2017)*
+:white_check_mark: [**Tiny Transform Net for Mobile Image Stylization**] [[Paper]](https://dl.acm.org/citation.cfm?id=3079034)  *(ICMR 2017)*
 
 ## Blogs 
 
