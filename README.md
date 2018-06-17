@@ -181,11 +181,14 @@ If you find this repository useful for your research, please cite
 *   [TensorFlow-based](https://github.com/eridgd/WCT-TF)
 *   [PyTorch-based](https://github.com/sunshineatnoon/PytorchWCT)
 
-:white_check_mark: [**Meta Networks for Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1709.04111.pdf)
+:white_check_mark: [**Meta Networks for Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1709.04111.pdf)  *(CVPR 2018)*
 
 :sparkle: **Code:**
 
 *   [Caffe-based](https://github.com/FalongShen/styletransfer)
+
+:white_check_mark: [**ZM-Net: Real-time Zero-shot Image Manipulation Network**] [[Paper]](https://arxiv.org/pdf/1703.07255.pdf)
+
 
 ## Improvements and Extensions
 
@@ -272,6 +275,8 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**Real-Time Neural Style Transfer for Videos**] [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf)  *(CVPR 2017)* 
 
+:white_check_mark: [**A Common Framework for Interactive Texture Transfer**] [[Paper]](http://www.icst.pku.edu.cn/F/zLian/papers/CVPR18-Men.pdf)  *(CVPR 2018)*
+
 :white_check_mark: [**Deep Photo Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.07511.pdf)  *(CVPR 2017)*
 
 
@@ -322,6 +327,7 @@ If you find this repository useful for your research, please cite
 *   [Torch-based](https://github.com/luanfujun/deep-painterly-harmonization)
 
 :white_check_mark: [**Fast Face-Swap Using Convolutional Neural Networks**] [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.pdf)  *(ICCV 2017)*
+
 
 
 ## Application
