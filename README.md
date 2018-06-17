@@ -6,6 +6,8 @@ Selected papers, corresponding codes and pre-trained models in our review paper 
 
 ## *News!*
 
+- [June, 2018] Upload a new version of our paper on arXiv which adds several missing papers (e.g., the work of Wang et al. *ZM-Net: Real-time Zero-shot Image Manipulation Network*).
+
 - [Apr, 2018] We have released a new version of the paper with significant changes at: https://arxiv.org/pdf/1705.04058.pdf </br> Appreciate the feedback!
 
 - [Feb, 2018] Update the *Images* *(Images_neuralStyleTransferReview_v2)* in the *Materials*. Add the results of Li et al.'s NIPS 2017 paper.
@@ -15,7 +17,7 @@ Selected papers, corresponding codes and pre-trained models in our review paper 
 
 <p align='center'>
     </br>
-    <img src='framework_n3.png' width='1000'>
+    <img src='framework_n4.png' width='1000'>
 </p>
 
 ## Citation 
