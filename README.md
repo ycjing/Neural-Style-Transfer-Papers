@@ -6,6 +6,8 @@ Selected papers, corresponding codes and pre-trained models in our review paper 
 
 ## *News!*
 
+- [July, 2018] Our paper *Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields* has been accepted by ECCV 2018. Our review will be updated correspondingly.
+
 - [June, 2018] Upload a new version of our paper on arXiv which adds several missing papers (e.g., the work of Wang et al. *ZM-Net: Real-time Zero-shot Image Manipulation Network*).
 
 - [Apr, 2018] We have released a new version of the paper with significant changes at: https://arxiv.org/pdf/1705.04058.pdf </br> Appreciate the feedback!
@@ -238,7 +240,7 @@ If you find this repository useful for your research, please cite
 
 *   [TensorFlow-based](https://github.com/fullfanta/multimodal_transfer)
 
-:white_check_mark: [**Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields**] [[Paper]](https://arxiv.org/pdf/1802.07101.pdf) 
+:white_check_mark: [**Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields**] [[Paper]](https://arxiv.org/pdf/1802.07101.pdf)  *(ECCV 2018)* 
 
 :sparkle: **Code:**
 
