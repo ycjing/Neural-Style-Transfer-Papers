@@ -92,6 +92,7 @@ If you find this repository useful for your research, please cite
 *   [Torch-based](https://github.com/chuanli11/CNNMRF)
 
 
+:white_check_mark: [**Arbitrary Style Transfer with Deep Feature Reshuffle**] [[Paper]](https://arxiv.org/pdf/1805.04103.pdf)  *(CVPR 2018)*
 
 ###  2. "Fast" Neural Methods Based On Offline Model Optimization
 
@@ -193,6 +194,12 @@ If you find this repository useful for your research, please cite
 
 :white_check_mark: [**ZM-Net: Real-time Zero-shot Image Manipulation Network**] [[Paper]](https://arxiv.org/pdf/1703.07255.pdf)
 
+:white_check_mark: [**Avatar-Net: Multi-Scale Zero-Shot Style Transfer by Feature Decoration**] [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0137.pdf)  *(CVPR 2018)*
+
+:sparkle: **Code:**
+
+*   [TensorFlow-based](https://github.com/LucasSheng/avatar-net)
+
 
 ## Improvements and Extensions
 
@@ -216,7 +223,7 @@ If you find this repository useful for your research, please cite
 
 *   [Torch-based](https://github.com/alexjc/neural-doodle)
 
-:white_check_mark: [**The Contextual Loss for Image Transformation with Non-Aligned Data**] [[Paper]](https://arxiv.org/pdf/1803.02077)
+:white_check_mark: [**The Contextual Loss for Image Transformation with Non-Aligned Data**] [[Paper]](https://arxiv.org/pdf/1803.02077)   *(ECCV 2018)* 
 
 :sparkle: **Code:**
 
@@ -233,6 +240,8 @@ If you find this repository useful for your research, please cite
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/DmitryUlyanov/texture_nets)
+
+:white_check_mark: [**A Style-Aware Content Loss for Real-time HD Style Transfer**] [[Paper]](https://arxiv.org/pdf/1807.10201)  *(ECCV 2018)* 
 
 :white_check_mark: [**Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer**] [[Paper]](https://arxiv.org/pdf/1612.01895.pdf)  *(CVPR 2017)* 
 
@@ -289,7 +298,7 @@ If you find this repository useful for your research, please cite
 *   [Torch-based](https://github.com/luanfujun/deep-photo-styletransfer)
 *   [TensorFlow-based](https://github.com/LouieYang/deep-photo-styletransfer-tf)
 
-:white_check_mark: [**A Closed-form Solution to Photorealistic Image Stylization**] [[Paper]](https://arxiv.org/pdf/1802.06474.pdf)
+:white_check_mark: [**A Closed-form Solution to Photorealistic Image Stylization**] [[Paper]](https://arxiv.org/pdf/1802.06474.pdf)  *(ECCV 2018)* 
 
 :sparkle: **Code:**
 
