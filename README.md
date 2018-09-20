@@ -185,6 +185,7 @@ If you find this repository useful for your research, please cite
 *   [Torch-based](https://github.com/Yijunmaverick/UniversalStyleTransfer)
 *   [TensorFlow-based](https://github.com/eridgd/WCT-TF)
 *   [PyTorch-based](https://github.com/sunshineatnoon/PytorchWCT)
+*   [PyTorch-based](https://github.com/pietrocarbo/deep-transfer)
 
 :white_check_mark: [**Meta Networks for Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1709.04111.pdf)  *(CVPR 2018)*
 
