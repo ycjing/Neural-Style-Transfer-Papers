@@ -386,3 +386,11 @@ If you find this repository useful for your research, please cite
 :white_check_mark: [**Issue of Layer Chosen Strategy**][http://yongchengjing.com/pdf/Issue_layerChosenStrategy_neuralStyleTransfer.pdf]
 
 :white_check_mark: [**Picking an optimizer for Style Transfer**][https://blog.slavv.com/picking-an-optimizer-for-style-transfer-86e7b8cba84b]
+
+## To be classified
+
+:white_check_mark: [**Conditional Fast Style Transfer Network**] [[Paper]](http://img.cs.uec.ac.jp/pub/conf17/170612yanai_0.pdf)
+
+:white_check_mark: [**Unseen Style Transfer Based on a Conditional Fast Style Transfer Network**] [[Paper]](https://openreview.net/forum?id=H1Y7-1HYg&noteId=H1Y7-1HYg)
+
+:white_check_mark: [**DeepStyleCam: A Real-time Style Transfer App on iOS**] [[Paper]](http://img.cs.uec.ac.jp/pub/conf16/170103tanno_0.pdf)
