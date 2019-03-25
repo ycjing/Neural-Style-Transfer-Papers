@@ -39,7 +39,7 @@ If you find this repository useful for your research, please cite
 
 ## Materials corresponding to Our Paper
 
-:white_check_mark: [**Supplementary Materials**](http://yongchengjing.com/pdf/review_supp.pdf)
+:white_check_mark: [**Supplementary Materials**](https://yongchengjing.com/pdf/review_supp_v2.pdf)
 
 :white_check_mark: [**Pre-trained Models**](https://www.dropbox.com/s/37lje23pb75ecob/Models_neuralStyleTransferReview.zip?dl=0)
 
