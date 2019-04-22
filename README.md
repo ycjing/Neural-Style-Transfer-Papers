@@ -1,6 +1,8 @@
 # Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="30" width="30" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
 Selected papers, corresponding codes and pre-trained models in our review paper "**[Neural Style Transfer: A Review](https://arxiv.org/abs/1705.04058)**" 
 
+The corresponding OSF repository can be found at: https://osf.io/f8tu4/.
+
 *If I missed your paper in this review, please email me or just pull a request here. I am more than happy to add it. Thanks!*
 
 #### [**The following content will be updated soon after the revision of our manuscript.**]
