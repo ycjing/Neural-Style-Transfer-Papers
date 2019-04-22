@@ -35,7 +35,18 @@ If you find this repository useful for your research, please cite
   year={2017}
 }
 ```
+Please also consider citing our ECCV paper:
 
+```
+@inproceedings{jing2018stroke,
+  title={Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields},
+  author={Jing, Yongcheng and Liu, Yang and Yang, Yezhou and Feng, Zunlei and Yu, Yizhou and Tao, Dacheng and Song, Mingli},
+  booktitle={European Conference on Computer Vision},
+  year={2018}
+}
+```
+
+Thanks!
 
 ## Materials corresponding to Our Paper
 
