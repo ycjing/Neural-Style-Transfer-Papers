@@ -10,6 +10,8 @@ The corresponding OSF repository can be found at: https://osf.io/f8tu4/.
 
 ## *News!*
 
+- [May, 2019] Our paper *Neural Style Transfer: A Review* has been accepted by TVCG as a regular paper. This repository will be updated soon.
+
 - [July, 2018] Our paper *Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields* has been accepted by ECCV 2018. Our review will be updated correspondingly.
 
 - [June, 2018] Upload a new version of our paper on arXiv which adds several missing papers (e.g., the work of Wang et al. *ZM-Net: Real-time Zero-shot Image Manipulation Network*).
