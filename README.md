@@ -323,6 +323,11 @@ Thanks!
 
 *   [PyTorch-based](https://github.com/NVIDIA/FastPhotoStyle)
 
+:white_check_mark: [**Photorealistic Style Transfer via Wavelet Transforms**] [[Paper]](https://arxiv.org/pdf/1903.09760.pdf)
+
+:sparkle: **Code:**
+
+*   [PyTorch-based](https://github.com/clovaai/WCT2)
 
 :white_check_mark: [**Decoder Network Over Lightweight Reconstructed Feature for Fast Semantic Style Transfer**] [[Paper]](http://feng-xu.com/papers/iccv2017_style.pdf)  *(ICCV 2017)* 
 
