@@ -32,11 +32,11 @@ The corresponding OSF repository can be found at: https://osf.io/f8tu4/.
 If you find this repository useful for your research, please cite
 
 ```
-@article{jing2017neural,
+@article{jing2019neural,
   title={Neural Style Transfer: A Review},
   author={Jing, Yongcheng and Yang, Yezhou and Feng, Zunlei and Ye, Jingwen and Yu, Yizhou and Song, Mingli},
-  journal={arXiv preprint arXiv:1705.04058},
-  year={2017}
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  year={2019}
 }
 ```
 Please also consider citing our ECCV paper:
