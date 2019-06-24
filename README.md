@@ -219,6 +219,11 @@ Thanks!
 
 *   [TensorFlow-based](https://github.com/LucasSheng/avatar-net)
 
+:white_check_mark: [**Learning Linear Transformations for Fast Arbitrary Style Transfer**] [[Paper]](https://arxiv.org/pdf/1808.04537.pdf)
+
+:sparkle: **Code:**
+
+*   [PyTorch-based](https://github.com/sunshineatnoon/LinearStyleTransfer)
 
 ## Improvements and Extensions
 
