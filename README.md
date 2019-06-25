@@ -9,7 +9,7 @@ The corresponding OSF repository can be found at: https://osf.io/f8tu4/.
 
 
 ## Citation 
-If you find this repository useful for your research, please cite
+If you find this repository useful for your research, please consider citing
 
 ```
 @article{jing2019neural,
