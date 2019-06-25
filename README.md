@@ -10,6 +10,8 @@ The corresponding OSF repository can be found at: https://osf.io/f8tu4/.
 
 ## *News!*
 
+- [June, 2019] Update the *Images (TVCG)* (.png) and *Supplementary Material (TVCG)* in the *Materials*. <font color="#660000">**Warmly welcome to use *Images (TVCG)* for comparison results in your paper!**</font>
+
 - [May, 2019] Our paper *Neural Style Transfer: A Review* has been accepted by TVCG as a regular paper. This repository will be updated soon.
 
 - [July, 2018] Our paper *Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields* has been accepted by ECCV 2018. Our review will be updated correspondingly.
@@ -54,11 +56,11 @@ Thanks!
 
 ## Materials corresponding to Our Paper
 
-:white_check_mark: [**Supplementary Materials**](https://yongchengjing.com/pdf/review_supp_v2.pdf)
+:white_check_mark: [**Supplementary Material (TVCG)**](https://drive.google.com/file/d/1_VTS4rUSl488wgSrz2K5BfKra33gvaHH/view?usp=sharing)
 
 :white_check_mark: [**Pre-trained Models**](https://www.dropbox.com/s/37lje23pb75ecob/Models_neuralStyleTransferReview.zip?dl=0)
 
-:white_check_mark: [**Images (v2)**](https://www.dropbox.com/s/dkp45oc4mvqt4m8/Images_neuralStyleTransferReview_v2.zip?dl=0)
+:white_check_mark: [**Images (TVCG)**](https://drive.google.com/file/d/14RN0GN09-rordzRqp4o8oU30BB7uiNcj/view?usp=sharing)
 
 ## A Taxonomy of Current Methods
 
