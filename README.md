@@ -10,7 +10,7 @@ The corresponding OSF repository can be found at: https://osf.io/f8tu4/.
 
 ## *News!*
 
-- [June, 2019] Update the *Images (TVCG)* (.png) and *Supplementary Material (TVCG)* in the *Materials*. <font color="#660000">**Warmly welcome to use *Images (TVCG)* for comparison results in your paper!**</font>
+- [June, 2019] Update the *Images (TVCG)* (.png) and *Supplementary Material (TVCG)* in the *Materials*. **Warmly welcome to use *Images (TVCG)* for comparison results in your paper!**
 
 - [May, 2019] Our paper *Neural Style Transfer: A Review* has been accepted by TVCG as a regular paper. This repository will be updated soon.
 
@@ -60,7 +60,7 @@ Thanks!
 
 :white_check_mark: [**Pre-trained Models**](https://www.dropbox.com/s/37lje23pb75ecob/Models_neuralStyleTransferReview.zip?dl=0)
 
-:white_check_mark: [**Images (TVCG)**](https://drive.google.com/file/d/14RN0GN09-rordzRqp4o8oU30BB7uiNcj/view?usp=sharing)
+:white_check_mark: [**Images (TVCG)(.png)**](https://drive.google.com/file/d/14RN0GN09-rordzRqp4o8oU30BB7uiNcj/view?usp=sharing)
 
 ## A Taxonomy of Current Methods
 
