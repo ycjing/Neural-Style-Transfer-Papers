@@ -32,6 +32,7 @@ Please also consider citing our ECCV paper:
 
 Thanks!
 
+---
 
 ## *News!*
 
@@ -60,7 +61,7 @@ Thanks!
 
 :white_check_mark: [**Supplementary Material (TVCG)**](https://drive.google.com/file/d/1_VTS4rUSl488wgSrz2K5BfKra33gvaHH/view?usp=sharing)
 
-:white_check_mark: [**Pre-trained Models**](https://www.dropbox.com/s/37lje23pb75ecob/Models_neuralStyleTransferReview.zip?dl=0)
+:white_check_mark: [**~Pre-trained Models~ (to be updated)**](https://www.dropbox.com/s/37lje23pb75ecob/Models_neuralStyleTransferReview.zip?dl=0)
 
 :white_check_mark: [**Images (TVCG)(.png)**](https://drive.google.com/file/d/14RN0GN09-rordzRqp4o8oU30BB7uiNcj/view?usp=sharing)
 
