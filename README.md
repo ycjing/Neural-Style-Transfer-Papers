@@ -8,28 +8,6 @@ The corresponding OSF repository can be found at: https://osf.io/f8tu4/.
 #### [**The following content will be updated soon after the revision of our manuscript.**]
 
 
-## *News!*
-
-- [June, 2019] Update the *Images (TVCG)* (.png) and *Supplementary Material (TVCG)* in the *Materials*. **Warmly welcome to use *Images (TVCG)* for comparison results in your paper!**
-
-- [May, 2019] Our paper *Neural Style Transfer: A Review* has been accepted by TVCG as a regular paper. This repository will be updated soon.
-
-- [July, 2018] Our paper *Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields* has been accepted by ECCV 2018. Our review will be updated correspondingly.
-
-- [June, 2018] Upload a new version of our paper on arXiv which adds several missing papers (e.g., the work of Wang et al. *ZM-Net: Real-time Zero-shot Image Manipulation Network*).
-
-- [Apr, 2018] We have released a new version of the paper with significant changes at: https://arxiv.org/pdf/1705.04058.pdf </br> Appreciate the feedback!
-
-- [Feb, 2018] Update the *Images* *(Images_neuralStyleTransferReview_v2)* in the *Materials*. Add the results of Li et al.'s NIPS 2017 paper.
-
-- [Jan, 2018] *Pre-trained models* and all the *content images*, the *style images*, and the *stylized results* in the paper have been released.
-
-
-<p align='center'>
-    </br>
-    <img src='framework_n5.png' width='1000'>
-</p>
-
 ## Citation 
 If you find this repository useful for your research, please cite
 
@@ -53,6 +31,30 @@ Please also consider citing our ECCV paper:
 ```
 
 Thanks!
+
+
+## *News!*
+
+- [June, 2019] Update the *Images (TVCG)* (.png) and *Supplementary Material (TVCG)* in the *Materials*. **Warmly welcome to use *Images (TVCG)* for comparison results in your paper!**
+
+- [May, 2019] Our paper *Neural Style Transfer: A Review* has been accepted by TVCG as a regular paper. This repository will be updated soon.
+
+- [July, 2018] Our paper *Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields* has been accepted by ECCV 2018. Our review will be updated correspondingly.
+
+- [June, 2018] Upload a new version of our paper on arXiv which adds several missing papers (e.g., the work of Wang et al. *ZM-Net: Real-time Zero-shot Image Manipulation Network*).
+
+- [Apr, 2018] We have released a new version of the paper with significant changes at: https://arxiv.org/pdf/1705.04058.pdf </br> Appreciate the feedback!
+
+- [Feb, 2018] Update the *Images* *(Images_neuralStyleTransferReview_v2)* in the *Materials*. Add the results of Li et al.'s NIPS 2017 paper.
+
+- [Jan, 2018] *Pre-trained models* and all the *content images*, the *style images*, and the *stylized results* in the paper have been released.
+
+
+<p align='center'>
+    </br>
+    <img src='framework_n5.png' width='1000'>
+</p>
+
 
 ## Materials corresponding to Our Paper
 
