@@ -1,11 +1,9 @@
-# Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="30" width="30" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">
+# Neural-Style-Transfer-Papers <img class="emoji" alt=":art:" height="30" width="30" src="https://https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">
 Selected papers, corresponding codes and pre-trained models in our review paper **"Neural Style Transfer: A Review" [[arXiv Version]](https://arxiv.org/abs/1705.04058) [[IEEE Version]](https://ieeexplore.ieee.org/document/8732370)**
 
 The corresponding OSF repository can be found at: https://osf.io/f8tu4/.
 
 *If I missed your paper in this review, please email me or just pull a request here. I am more than happy to add it. Thanks!*
-
-#### [**The following content will be updated soon after the revision of our manuscript.**]
 
 
 ## Citation 
@@ -25,8 +23,17 @@ Please also consider citing our ECCV paper:
 @inproceedings{jing2018stroke,
   title={Stroke Controllable Fast Style Transfer with Adaptive Receptive Fields},
   author={Jing, Yongcheng and Liu, Yang and Yang, Yezhou and Feng, Zunlei and Yu, Yizhou and Tao, Dacheng and Song, Mingli},
-  booktitle={European Conference on Computer Vision},
+  booktitle={ECCV},
   year={2018}
+}
+```
+and also our AAAI paper:
+```
+@inproceedings{jing2020dynamic,
+  title={Dynamic Instance Normalization for Arbitrary Style Transfer},
+  author={Jing, Yongcheng and Liu, Xiao and Ding, Yukang and Wang, Xinchao and Ding, Errui and Song, Mingli and Wen, Shilei},
+  booktitle={AAAI},
+  year={2020}
 }
 ```
 
