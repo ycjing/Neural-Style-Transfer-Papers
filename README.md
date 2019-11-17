@@ -17,7 +17,7 @@ If you find this repository useful for your research, please consider citing
   year={2019}
 }
 ```
-Please also consider citing our ECCV paper:
+Please also consider citing our ECCV paper and AAAI paper:
 
 ```
 @inproceedings{jing2018stroke,
@@ -27,7 +27,6 @@ Please also consider citing our ECCV paper:
   year={2018}
 }
 ```
-and also our AAAI paper:
 ```
 @inproceedings{jing2020dynamic,
   title={Dynamic Instance Normalization for Arbitrary Style Transfer},
