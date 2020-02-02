@@ -207,6 +207,8 @@ Thanks!
 *   [TensorFlow-based with Keras](https://github.com/eridgd/AdaIN-TF)
 *   [TensorFlow-based without Keras](https://github.com/elleryqueenhomels/arbitrary_style_transfer)
 
+:white_check_mark: [**Dynamic Instance Normalization for Arbitrary Style Transfer**] [[Paper]](https://arxiv.org/pdf/1911.06953.pdf)  *(AAAI 2020)*
+
 :white_check_mark: [**Universal Style Transfer via Feature Transforms**] [[Paper]](https://arxiv.org/pdf/1705.08086.pdf)  *(NIPS 2017)*
 
 :sparkle: **Code:**
