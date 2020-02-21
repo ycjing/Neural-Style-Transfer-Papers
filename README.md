@@ -17,7 +17,7 @@ If you find this repository useful for your research, please consider citing
   year={2019}
 }
 ```
-Please also consider citing our ECCV paper and AAAI paper:
+Please also consider citing our ECCV paper and AAAI (Oral) paper:
 
 ```
 @inproceedings{jing2018stroke,
