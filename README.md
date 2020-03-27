@@ -435,3 +435,5 @@ Thanks!
 :white_check_mark: [**Unseen Style Transfer Based on a Conditional Fast Style Transfer Network**] [[Paper]](https://openreview.net/forum?id=H1Y7-1HYg&noteId=H1Y7-1HYg)
 
 :white_check_mark: [**DeepStyleCam: A Real-time Style Transfer App on iOS**] [[Paper]](http://img.cs.uec.ac.jp/pub/conf16/170103tanno_0.pdf)
+
+:white_check_mark: [**Enhanced Color Style Transfer**] [[Project]](https://github.com/TJCoding/Enhanced-Image-Colour-Transfer)
