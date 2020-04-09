@@ -428,6 +428,9 @@ Thanks!
 
 :white_check_mark: [**Picking an optimizer for Style Transfer**][https://blog.slavv.com/picking-an-optimizer-for-style-transfer-86e7b8cba84b]
 
+:white_check_mark: [**Enhanced Color Style Transfer (Photo-surrealism Style Transfer)**] [[Project]](https://github.com/TJCoding/Enhanced-Image-Colour-Transfer)
+
+
 ## To be classified
 
 :white_check_mark: [**Conditional Fast Style Transfer Network**] [[Paper]](http://img.cs.uec.ac.jp/pub/conf17/170612yanai_0.pdf)
@@ -436,4 +439,3 @@ Thanks!
 
 :white_check_mark: [**DeepStyleCam: A Real-time Style Transfer App on iOS**] [[Paper]](http://img.cs.uec.ac.jp/pub/conf16/170103tanno_0.pdf)
 
-:white_check_mark: [**Enhanced Color Style Transfer**] [[Project]](https://github.com/TJCoding/Enhanced-Image-Colour-Transfer)
