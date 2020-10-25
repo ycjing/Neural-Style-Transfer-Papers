@@ -40,7 +40,7 @@ Thanks!
 
 ## Framework
 
-There is a recent nice NST framework called [pystiche](https://github.com/ycjing/Neural-Style-Transfer-Papers/issues/17#issue-725784148), developed by [Philip Meier](https://github.com/pmeier). If you are interested, please refer to https://github.com/pmeier/pystiche.
+There is a recent nice NST framework called [pystiche](https://github.com/ycjing/Neural-Style-Transfer-Papers/issues/17#issue-725784148), developed by [Philip Meier](https://github.com/pmeier). If you are interested, please refer to https://github.com/pmeier/pystiche. A package that comprises reference implementations of NST papers with pystiche can be found at [pystiche_papers](https://github.com/pmeier/pystiche_papers) (work in progress).
 
 
 ---
