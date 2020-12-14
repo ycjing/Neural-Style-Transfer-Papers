@@ -390,12 +390,20 @@ There is a recent nice NST framework called [pystiche](https://github.com/ycjing
 
 :white_check_mark: [**Learning Selfie-Friendly Abstraction from Artistic Style Images**] [[Paper]]()  *(ACML 2018)*
 
+:white_check_mark: [**Style Transfer with Adaptation to the Central Objects of the Scene**] [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-30425-6_40)  *(NEUROINFORMATICS 2019)*
+
 
 ## Application
 
 :white_check_mark: [**Prisma**](https://prisma-ai.com/) 
 
 :white_check_mark: [**Ostagram**](https://ostagram.ru/) 
+
+:white_check_mark: [**AlterDraw**](https://alterdraw.com/en/)
+
+:white_check_mark: [**Vinci**](https://play.google.com/store/apps/details?id=io.vinci.android&hl=en_US&gl=US)
+
+:white_check_mark: [**Artisto**](https://en.wikipedia.org/wiki/Artisto)
 
 :sparkle: **Code:**
 
@@ -436,7 +444,7 @@ There is a recent nice NST framework called [pystiche](https://github.com/ycjing
 :white_check_mark: [**Enhanced Color Style Transfer (Photo-surrealism Style Transfer)**] [[Project]](https://github.com/TJCoding/Enhanced-Image-Colour-Transfer)
 
 
-## To be classified
+## Others
 
 :white_check_mark: [**Conditional Fast Style Transfer Network**] [[Paper]](http://img.cs.uec.ac.jp/pub/conf17/170612yanai_0.pdf)
 
