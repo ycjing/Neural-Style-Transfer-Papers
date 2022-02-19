@@ -452,7 +452,7 @@ There is a recent nice NST framework called [pystiche](https://github.com/ycjing
 
 :white_check_mark: [**DeepStyleCam: A Real-time Style Transfer App on iOS**] [[Paper]](http://img.cs.uec.ac.jp/pub/conf16/170103tanno_0.pdf)
 
-:white_check_mark: [**Deep Feature Rotation for Multimodal Image Style Transfer**] [[Paper]](https://arxiv.org/pdf/2202.04426.pdf)  *（NICS 2021）*
+:white_check_mark: [**Deep Feature Rotation for Multimodal Image Style Transfer**] [[Paper]](https://arxiv.org/pdf/2202.04426.pdf)  *(NICS 2021)*
 
 :sparkle: **Code:**
 
